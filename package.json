@@ -1,0 +1,38 @@
+{
+  "name": "show-hn-classified",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "scrape": "npx tsx scripts/scrape.ts && npx tsx scripts/classify.ts"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
+    "lucide-react": "^0.562.0",
+    "metascraper": "^5.49.15",
+    "metascraper-author": "^5.49.15",
+    "metascraper-description": "^5.49.15",
+    "metascraper-image": "^5.49.15",
+    "metascraper-logo": "^5.49.15",
+    "metascraper-publisher": "^5.49.15",
+    "metascraper-title": "^5.49.15",
+    "metascraper-url": "^5.49.15",
+    "next": "16.1.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

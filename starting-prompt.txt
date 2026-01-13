@@ -1,0 +1,23 @@
+Hacker News has thousands of apps that have been submitted for discussion.  New apps, like mine, quickly drop to the bottom of the lists where few users look.  I quickly get bored looking at one random app after another.  There are no categories and no tags.
+
+Hacker News is against tags and categories for its news articles because that would create silos.  They want everyone to see the same information.  
+
+That is a reasonable concern for news articles, but applied to the huge list of uploaded apps it doesn't really make sense.  I am more interested in visualizations of knowledge than software engineering tools so silos seem natural to me for apps.
+
+Create an app that reads hacker news submitted apps and classifies them.  The urls are
+
+  https://news.ycombinator.com/show
+
+and
+ 
+  https://news.ycombinator.com/shownew
+
+There is a More button at the bottom.  Use it to pull the complete list.  
+
+The categories should be based on the github or app page that is linked on the Show HN posts, not just the title.
+
+Create cateogries that have a resonable number of apps.  No need for a category that has only one app, or a category with thousands.
+
+Also, when possible find an image to associate with the app and a description.  The result should be a series of pages that show a category name followed by a list of apps showing the image, title, and description along with the original link.  
+
+Save the downloaded data in a ./data directory for this app.  I will deploy the app using vercel.  In a later version we may load it all into a database and generate the pages on the fly.

@@ -4,6 +4,15 @@ import { AppImage } from "@/components/AppImage";
 import { SearchInput } from "@/components/SearchInput";
 import Link from "next/link";
 import { Suspense } from "react";
+import { Metadata } from "next";
+
+export async function generateMetadata({ searchParams }: PageProps): Promise<Metadata> {
+  const { q: query } = await searchParams;
+  return {
+    title: query ? `Search: ${query} - Show HN Classified` : "Search - Show HN Classified",
+    description: query ? `Search results for "${query}" across all Hacker News Show HN apps.` : "Search for apps across all Hacker News Show HN categories.",
+  };
+}
 
 interface PageProps {
   searchParams: Promise<{ q?: string }>;

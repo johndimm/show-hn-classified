@@ -5,6 +5,25 @@ import { SearchInput } from "@/components/SearchInput";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
+import { Metadata } from "next";
+
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { category: slug } = await params;
+  const categories = await getAppsByCategory();
+  const categoryName = Object.keys(categories).find(name => slugify(name) === slug);
+
+  if (!categoryName) return { title: "Category Not Found" };
+
+  return {
+    title: `${categoryName} - Show HN Classified`,
+    description: `Browse ${categories[categoryName].length} apps in the ${categoryName} category from Hacker News.`,
+    openGraph: {
+      title: `${categoryName} - Show HN Classified`,
+      description: `Browse ${categories[categoryName].length} apps in the ${categoryName} category from Hacker News.`,
+      images: ["/screenshot.png"],
+    },
+  };
+}
 
 export async function generateStaticParams() {
   const categories = await getAppsByCategory();

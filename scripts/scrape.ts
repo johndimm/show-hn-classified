@@ -108,6 +108,46 @@ async function fetchHNPage(url: string): Promise<{ posts: HNPost[], nextUrl: str
   return { posts, nextUrl };
 }
 
+async function validateImageUrl(url: string): Promise<boolean> {
+  if (!url) return false;
+  
+  const lowUrl = url.toLowerCase();
+  // Filter out badges, shields, and other common non-screenshot images
+  if (
+    lowUrl.includes('img.shields.io') || 
+    lowUrl.includes('badge.svg') || 
+    lowUrl.includes('travis-ci.org') || 
+    lowUrl.includes('circleci.com') ||
+    lowUrl.includes('github-readme-stats') ||
+    lowUrl.includes('codacy.com') ||
+    lowUrl.includes('codecov.io') ||
+    lowUrl.includes('opencollective.com') ||
+    (lowUrl.includes('camo.githubusercontent.com') && (lowUrl.includes('6261646765') || lowUrl.includes('736869656c64')))
+  ) {
+    return false;
+  }
+
+  try {
+    const res = await axios.get(url, { 
+      timeout: 8000, 
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+      },
+      responseType: 'stream'
+    });
+    
+    const contentType = res.headers['content-type'] || '';
+    const isValid = res.status >= 200 && res.status < 300 && (contentType.startsWith('image/') || url.match(/\.(png|jpg|jpeg|gif|webp|svg)$/i));
+    
+    // Close the stream immediately
+    res.data.destroy();
+    
+    return !!isValid;
+  } catch (e) {
+    return false;
+  }
+}
+
 async function getMetadata(url: string): Promise<AppMetadata | null> {
   try {
     console.log(`Extracting metadata for ${url}...`);
@@ -118,53 +158,57 @@ async function getMetadata(url: string): Promise<AppMetadata | null> {
       }
     });
     
-    // metascraper needs the final URL after redirects
     const finalUrl = request.res.responseUrl || url;
     const metadata = await metascraper({ html, url: finalUrl });
     
-    // Improve GitHub images
-    if (finalUrl.includes('github.com') && (metadata.image?.includes('opengraph.githubassets.com') || !metadata.image)) {
-      console.log(`Detected generic GitHub image for ${finalUrl}, searching for screenshots in README...`);
-      const $ = cheerio.load(html);
-      // Look for images in the README (usually in .markdown-body)
-      const readmeImages = $('.markdown-body img').map((i, el) => $(el).attr('src')).get();
-      
-      const screenshot = readmeImages.find(src => {
-        if (!src) return false;
-        const low = src.toLowerCase();
-        // Prefer images that look like screenshots or examples
-        return !low.includes('badge') && 
-               !low.includes('shield') && 
-               !low.includes('logo') && 
-               !low.includes('icon') &&
-               (low.includes('screenshot') || low.includes('demo') || low.includes('example') || low.includes('asset') || low.includes('images') || low.includes('raw'));
-      }) || readmeImages[0]; // Fallback to first image if no "screenshot" found
+    const isGeneric = metadata.image?.includes('opengraph.githubassets.com') || metadata.image?.includes('github.com/identicons/');
+    if (metadata.image && (isGeneric || !(await validateImageUrl(metadata.image)))) {
+      console.log(`Initial image ${metadata.image} is generic or invalid, searching for alternatives...`);
+      metadata.image = undefined;
+    }
 
-      if (screenshot) {
-        // Resolve relative URLs
-        let resolvedScreenshot = screenshot;
-        if (!screenshot.startsWith('http')) {
+    if (finalUrl.includes('github.com') && !metadata.image) {
+      const $ = cheerio.load(html);
+      const candidates = $('.markdown-body img').map((i, el) => $(el).attr('src')).get();
+      
+      for (const src of candidates) {
+        if (!src) continue;
+        const low = src.toLowerCase();
+        if (low.includes('badge') || low.includes('shield') || low.includes('logo') || low.includes('icon')) continue;
+
+        let resolved = src;
+        if (!src.startsWith('http')) {
           const urlObj = new URL(finalUrl);
-          if (screenshot.startsWith('/')) {
-            resolvedScreenshot = `${urlObj.origin}${screenshot}`;
+          if (src.startsWith('/')) {
+            resolved = `${urlObj.origin}${src}`;
           } else {
-            // For GitHub, if it's relative, it's usually relative to the repo root
-            // We'll try to guess the raw URL
-            resolvedScreenshot = `${finalUrl}/raw/main/${screenshot}`;
+            const base = finalUrl.endsWith('/') ? finalUrl.slice(0, -1) : finalUrl;
+            const branches = ['main', 'master'];
+            let found = false;
+            for (const branch of branches) {
+              const testUrl = `${base}/raw/${branch}/${src}`;
+              if (await validateImageUrl(testUrl)) {
+                resolved = testUrl;
+                found = true;
+                break;
+              }
+            }
+            if (!found) continue;
           }
         }
-        
-        // GitHub specific: convert blob links to raw links for images
-        // Correctly handle the URL structure
-        if (resolvedScreenshot.includes('github.com')) {
-          resolvedScreenshot = resolvedScreenshot
+
+        if (resolved.includes('github.com') && (resolved.includes('/blob/') || resolved.includes('/raw/'))) {
+          resolved = resolved
             .replace('github.com/', 'raw.githubusercontent.com/')
             .replace('/blob/', '/')
             .replace('/raw/', '/');
         }
-        
-        console.log(`Found better image candidate: ${resolvedScreenshot}`);
-        metadata.image = resolvedScreenshot;
+
+        if (await validateImageUrl(resolved)) {
+          console.log(`Found valid image candidate: ${resolved}`);
+          metadata.image = resolved;
+          break;
+        }
       }
     }
 
@@ -200,7 +244,7 @@ async function main() {
   ];
 
   let allPosts: HNPost[] = [];
-  const maxPagesPerUrl = 30; // Further increased to get a massive list
+  const maxPagesPerUrl = 30;
 
   for (const startUrl of urls) {
     let currentUrl: string | null = startUrl;
@@ -212,7 +256,6 @@ async function main() {
         allPosts = allPosts.concat(posts);
         currentUrl = nextUrl;
         pagesFetched++;
-        // Wait a bit to be polite
         await new Promise(resolve => setTimeout(resolve, 1000));
       } catch (error) {
         console.error(`Error fetching page ${currentUrl}:`, (error as Error).message);
@@ -221,7 +264,6 @@ async function main() {
     }
   }
 
-  // De-duplicate posts by ID
   const uniquePostsMap = new Map<string, HNPost>();
   allPosts.forEach(post => uniquePostsMap.set(post.id, post));
   const uniquePosts = Array.from(uniquePostsMap.values());
@@ -229,24 +271,22 @@ async function main() {
   console.log(`Found ${uniquePosts.length} unique posts.`);
 
   const classifiedApps: ClassifiedApp[] = [];
-  
-  // Set limit high to process a lot of apps
   const limit = 1500; 
   const subset = uniquePosts.slice(0, limit);
 
   for (const post of subset) {
-    // Skip if URL is just HN
     if (post.url.includes('news.ycombinator.com/item?id=')) {
       classifiedApps.push(post);
       continue;
     }
 
-    // Check cache first
-    // Force re-scraping for the user's app or if image looks generic
-    const isGenericImage = existingMetadataMap.get(post.id)?.image?.includes('opengraph.githubassets.com');
-    const isUserApp = post.author === 'johndimm';
+    // Force re-scrape for specific apps user mentioned or if image is likely a badge
+    const currentMetadata = existingMetadataMap.get(post.id);
+    const isBadge = currentMetadata?.image?.includes('shields.io') || currentMetadata?.image?.includes('badge') || currentMetadata?.image?.includes('camo.githubusercontent.com');
+    const isGenericOrMissing = !currentMetadata?.image || currentMetadata?.image?.includes('githubassets.com');
+    const isTarget = post.title.includes('Ferrite');
 
-    if (existingMetadataMap.has(post.id) && !isGenericImage && !isUserApp) {
+    if (existingMetadataMap.has(post.id) && !isGenericOrMissing && !isTarget && !isBadge) {
       classifiedApps.push({
         ...post,
         metadata: existingMetadataMap.get(post.id)
@@ -259,7 +299,6 @@ async function main() {
       ...post,
       metadata: metadata || undefined
     });
-    // Be polite
     await new Promise(resolve => setTimeout(resolve, 500));
   }
 

@@ -77,3 +77,20 @@ export async function getAppsForCategory(category: string): Promise<HNPost[]> {
   const filtered = apps.filter(app => slugify(app.category) === category.toLowerCase());
   return sortApps(filtered);
 }
+
+export async function searchApps(query: string): Promise<HNPost[]> {
+  const apps = await getApps();
+  const lowerQuery = query.toLowerCase();
+  
+  const filtered = apps.filter(app => {
+    return (
+      app.title.toLowerCase().includes(lowerQuery) ||
+      app.metadata?.title?.toLowerCase().includes(lowerQuery) ||
+      app.metadata?.description?.toLowerCase().includes(lowerQuery) ||
+      app.author.toLowerCase().includes(lowerQuery) ||
+      app.category.toLowerCase().includes(lowerQuery)
+    );
+  });
+
+  return sortApps(filtered);
+}

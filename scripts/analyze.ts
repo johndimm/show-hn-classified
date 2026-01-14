@@ -31,6 +31,11 @@ function main() {
     return postDate >= new Date('2025-01-01');
   }).length;
 
+  const categoryCounts: Record<string, number> = {};
+  posts.forEach((p: any) => {
+    categoryCounts[p.category] = (categoryCounts[p.category] || 0) + 1;
+  });
+
   console.log(`--- Analysis of ${posts.length} apps ---`);
   console.log(`First post date: ${sortedDates[0]}`);
   console.log(`Last post date: ${sortedDates[sortedDates.length - 1]}`);
@@ -38,6 +43,13 @@ function main() {
   console.log(`Average posts per day (in this sample): ${avgPerDay.toFixed(2)}`);
   console.log(`Total posts since Jan 1, 2025: ${since2025}`);
   
+  console.log('\n--- Category Distribution ---');
+  Object.entries(categoryCounts)
+    .sort((a, b) => b[1] - a[1])
+    .forEach(([cat, count]) => {
+      console.log(`${cat}: ${count} apps`);
+    });
+
   // Show last 7 days distribution
   console.log('\n--- Posts in the last 7 days of the dataset ---');
   sortedDates.slice(-7).reverse().forEach(date => {

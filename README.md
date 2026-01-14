@@ -8,16 +8,48 @@ A curated and automatically classified directory of apps submitted to Hacker New
 
 The application operates in three main stages:
 
-1.  **Scraping**: Fetches the latest posts from `https://news.ycombinator.com/show` and `https://news.ycombinator.com/shownew`. It follows the external links to each app's landing page or GitHub repository.
-2.  **Metadata Extraction**: Uses `metascraper` and custom logic to pull the best possible titles, descriptions, and images. For GitHub repositories, it deep-scans README files to find actual screenshots instead of generic social previews.
-3.  **Classification**: Automatically categorizes each app using a keyword-based engine that analyzes the title and extracted metadata. Apps are then sorted by the number of comments to highlight the most discussed projects.
+1.  **Scraping**: Fetches the latest posts from Hacker News.
+2.  **Download & Cache**: Downloads the HTML of each external link and caches it locally in `data/html_cache/`. This ensures we only download each link once.
+3.  **Metadata Extraction**: Uses `metascraper` and custom logic to pull the best possible titles, descriptions, and images. For GitHub repositories, it deep-scans README files to find actual screenshots instead of generic social previews.
+4.  **LLM Classification**: Uses GPT-4o-mini to analyze the metadata and group projects into ~10 balanced high-level categories, aiming for roughly 100 items per category for optimal browsing.
 
 ## 📋 Features
 
-- **Categorized Browsing**: Quickly find apps in domains like AI, Developer Tools, Games, Data Visualization, and more.
+- **Categorized Browsing**: Quickly find apps in broad themes like "Web Development", "AI Tools", and "Creative & Media".
 - **Rich Previews**: Each app card shows a high-quality screenshot, detailed description, and engagement metrics (score/comments).
 - **Direct Links**: Easy access to both the live application and the original Hacker News discussion.
 - **Dynamic Routing**: Dedicated pages for each category for focused browsing.
+- **LLM-Powered Classification**: Uses GPT-4o-mini to dynamically group apps into balanced categories (~100 items each).
+
+## 📊 Data Analysis
+
+Our automated pipeline has identified **909 unique apps** from the most recent 60 pages of "Show HN" and "Show New HN".
+
+### App Submission Frequency
+
+**Daily Submissions (January 2026)**
+The dataset shows a consistent volume of ~150 apps per day.
+
+```text
+2026-01-08: 165 █████████████████████████████████
+2026-01-09: 139 ████████████████████████████
+2026-01-10: 123 █████████████████████████
+2026-01-11: 135 ███████████████████████████
+2026-01-12: 156 ████████████████████████████████
+2026-01-13: 182 █████████████████████████████████████
+```
+
+**Link Quality**
+Of the 909 links processed:
+- **Valid Links**: 882 (97%)
+- **Bad/Broken Links**: 27 (3%) - *These are automatically identified and cleaned from the visual directory.*
+
+### Monthly Trends (Past Year)
+*Note: Our current scrape depth captures the last 7 days. To view full-year trends, the pipeline can be run with a higher page limit.*
+
+```text
+2026-01: 909 ██████████████████████████████████████████████
+```
 
 ## 🛠️ Getting Started
 

@@ -6,13 +6,21 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint",
-    "scrape": "npx tsx scripts/scrape.ts && npx tsx scripts/classify.ts"
+    "lint": "next lint",
+    "scrape": "npm run phase1 && npm run phase2 && npm run phase3 && npm run phase4",
+    "phase1": "tsx scripts/phase1_fetch_hn.ts",
+    "phase2": "tsx scripts/phase2_fetch_content.ts",
+    "phase3": "tsx scripts/phase3_analyze.ts",
+    "phase4": "tsx scripts/phase4_classify_llm.ts",
+    "classify": "tsx scripts/phase4_classify_llm.ts",
+    "analyze": "tsx scripts/analyze.ts",
+    "clean-images": "tsx scripts/clean_images.ts"
   },
   "dependencies": {
     "axios": "^1.13.2",
     "cheerio": "^1.1.2",
     "date-fns": "^4.1.0",
+    "dotenv": "^17.2.3",
     "lucide-react": "^0.562.0",
     "metascraper": "^5.49.15",
     "metascraper-author": "^5.49.15",
@@ -23,6 +31,7 @@
     "metascraper-title": "^5.49.15",
     "metascraper-url": "^5.49.15",
     "next": "16.1.1",
+    "openai": "^6.16.0",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
@@ -34,6 +43,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.1",
     "tailwindcss": "^4",
+    "tsx": "^4.21.0",
     "typescript": "^5"
   }
 }

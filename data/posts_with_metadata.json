@@ -16,8 +16,7 @@
       "logo": null,
       "publisher": "Visual Studio Marketplace",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46609389",
@@ -36,8 +35,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46604862",
@@ -55,8 +53,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "A1darbek"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46600092",
@@ -75,8 +72,7 @@
       "logo": null,
       "publisher": "SnackBase",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46599341",
@@ -95,8 +91,7 @@
       "logo": null,
       "publisher": "Your finance app",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46602324",
@@ -115,8 +110,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "19-84"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46609592",
@@ -135,8 +129,7 @@
       "logo": null,
       "publisher": "Giant JSON Viewer",
       "author": "Kotysoft"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46551065",
@@ -155,8 +148,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "NishantJoshi00"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46601631",
@@ -175,8 +167,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "MichielMe"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46607459",
@@ -195,8 +186,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46588905",
@@ -215,8 +205,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "njbrake"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46607161",
@@ -226,8 +215,7 @@
     "author": "inferno22",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-13T20:11:26 1768335086",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-13T20:11:26 1768335086"
   },
   {
     "id": "46606514",
@@ -246,8 +234,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "acikelli"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46606371",
@@ -266,8 +253,7 @@
       "logo": null,
       "publisher": null,
       "author": "memalign"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46592376",
@@ -286,8 +272,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sarusso"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46605671",
@@ -297,8 +282,7 @@
     "author": "enaboapps",
     "score": 3,
     "comments": 3,
-    "timestamp": "2026-01-13T18:43:13 1768329793",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-13T18:43:13 1768329793"
   },
   {
     "id": "46591100",
@@ -316,8 +300,7 @@
       "logo": null,
       "publisher": "TryLAD",
       "author": "Lotas"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46604820",
@@ -327,8 +310,7 @@
     "author": "wkcollis1",
     "score": 4,
     "comments": 2,
-    "timestamp": "2026-01-13T17:53:06 1768326786",
-    "category": "Data Management & Visualization"
+    "timestamp": "2026-01-13T17:53:06 1768326786"
   },
   {
     "id": "46604152",
@@ -347,8 +329,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46592344",
@@ -366,8 +347,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "finbarr"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46589926",
@@ -386,8 +366,7 @@
       "logo": null,
       "publisher": "Pane",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46602583",
@@ -405,8 +384,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "microsoft"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46602287",
@@ -425,8 +403,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46602275",
@@ -445,8 +422,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "noir4y"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46591589",
@@ -465,8 +441,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46602227",
@@ -485,8 +460,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46601574",
@@ -505,8 +479,7 @@
       "logo": null,
       "publisher": "Codeberg.org",
       "author": "erkinalp"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46580652",
@@ -516,8 +489,7 @@
     "author": "rescrv",
     "score": 109,
     "comments": 16,
-    "timestamp": "2026-01-11T21:55:34 1768168534",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-11T21:55:34 1768168534"
   },
   {
     "id": "46601138",
@@ -536,8 +508,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "GetBindu"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46600906",
@@ -556,8 +527,7 @@
       "logo": null,
       "publisher": "y0",
       "author": "y0 Team"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46600762",
@@ -576,8 +546,7 @@
       "logo": null,
       "publisher": "MD Markdown File Viewer",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46600234",
@@ -596,8 +565,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "bluetuith-org"
-    },
-    "category": "Other"
+    }
   },
   {
     "id": "46567400",
@@ -616,8 +584,7 @@
       "logo": null,
       "publisher": "Trails",
       "author": "Pieter Maes"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46571166",
@@ -627,8 +594,7 @@
     "author": "goose0004",
     "score": 43,
     "comments": 27,
-    "timestamp": "2026-01-10T23:46:58 1768088818",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-10T23:46:58 1768088818"
   },
   {
     "id": "46583581",
@@ -646,8 +612,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "imjasonh"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46599298",
@@ -666,8 +631,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "pdftl"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46571149",
@@ -677,8 +641,7 @@
     "author": "jamesponddotco",
     "score": 137,
     "comments": 46,
-    "timestamp": "2026-01-10T23:45:25 1768088725",
-    "category": "Data Management & Visualization"
+    "timestamp": "2026-01-10T23:45:25 1768088725"
   },
   {
     "id": "46589173",
@@ -697,8 +660,7 @@
       "logo": null,
       "publisher": "Lightweight, subscription-free Geoguess experience",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46571980",
@@ -717,8 +679,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "OlaProeis"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46601421",
@@ -728,8 +689,7 @@
     "author": "ezgrade",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-13T14:32:30 1768314750",
-    "category": "Education & Learning Tools"
+    "timestamp": "2026-01-13T14:32:30 1768314750"
   },
   {
     "id": "46556210",
@@ -748,8 +708,7 @@
       "logo": null,
       "publisher": "Lend Me Your Ears",
       "author": "Mordenstar"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46569061",
@@ -768,8 +727,7 @@
       "logo": null,
       "publisher": "Watch AIs Play Texas Hold'em",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46597497",
@@ -787,8 +745,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "rikeda71"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46597495",
@@ -807,8 +764,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "hanzili"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46589853",
@@ -818,8 +774,7 @@
     "author": "hrshw",
     "score": 9,
     "comments": 0,
-    "timestamp": "2026-01-12T15:37:04 1768232224",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-12T15:37:04 1768232224"
   },
   {
     "id": "46549444",
@@ -829,8 +784,7 @@
     "author": "jedwhite",
     "score": 124,
     "comments": 101,
-    "timestamp": "2026-01-09T02:29:12 1767925752",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-09T02:29:12 1767925752"
   },
   {
     "id": "46549333",
@@ -849,8 +803,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "nickponline"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46577526",
@@ -869,8 +822,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46579900",
@@ -888,8 +840,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "abokhalill"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46592740",
@@ -908,8 +859,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46596981",
@@ -928,8 +878,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46544524",
@@ -948,8 +897,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "richhickson"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46586901",
@@ -967,8 +915,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "uktrade"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46590254",
@@ -986,8 +933,7 @@
       "logo": null,
       "publisher": "AI Motion Control",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46595972",
@@ -1005,8 +951,7 @@
       "logo": null,
       "publisher": "Zenodo",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46581431",
@@ -1025,8 +970,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46585312",
@@ -1044,8 +988,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "tuananh131001"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46595835",
@@ -1064,8 +1007,7 @@
       "logo": null,
       "publisher": "Read Philosophy",
       "author": "📣Introduction ✨Study Overview 🧠What is Philosophy?"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46579703",
@@ -1083,8 +1025,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "danthegoodman1"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46588892",
@@ -1102,8 +1043,7 @@
       "logo": null,
       "publisher": "WORDS.ZIP",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46572304",
@@ -1122,8 +1062,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "unhaya"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46588032",
@@ -1142,8 +1081,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "hirsimaki-markus"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46565833",
@@ -1162,8 +1100,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "eyengin"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46549231",
@@ -1182,8 +1119,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46557879",
@@ -1202,8 +1138,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46530832",
@@ -1222,8 +1157,7 @@
       "logo": null,
       "publisher": null,
       "author": "Freeman Jiang"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46557029",
@@ -1242,8 +1176,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46569949",
@@ -1261,8 +1194,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "gomarten"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46547580",
@@ -1281,8 +1213,7 @@
       "logo": null,
       "publisher": "Yellopages",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46557823",
@@ -1301,8 +1232,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Hiepler"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46540660",
@@ -1320,8 +1250,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jeremicna"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46591426",
@@ -1340,8 +1269,7 @@
       "logo": null,
       "publisher": "Sidecar",
       "author": "Sidecar"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46543359",
@@ -1360,8 +1288,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "minimaxir"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46579303",
@@ -1379,8 +1306,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "michaellee8"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46590922",
@@ -1399,8 +1325,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46599261",
@@ -1419,8 +1344,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46583619",
@@ -1438,8 +1362,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jamierpond"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46589783",
@@ -1457,8 +1380,7 @@
       "logo": null,
       "publisher": "Josh Mosier",
       "author": "Josh Mosier"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46589002",
@@ -1468,8 +1390,7 @@
     "author": "samarthahathwar",
     "score": 4,
     "comments": 0,
-    "timestamp": "2026-01-12T14:30:12 1768228212",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-12T14:30:12 1768228212"
   },
   {
     "id": "46572435",
@@ -1488,8 +1409,7 @@
       "logo": null,
       "publisher": "Interactive Music Tools Suite",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46579362",
@@ -1508,8 +1428,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46571661",
@@ -1528,8 +1447,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46585956",
@@ -1548,8 +1466,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Kristijan"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46565265",
@@ -1568,8 +1485,7 @@
       "logo": null,
       "publisher": "Download on App Store",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46546349",
@@ -1588,8 +1504,7 @@
       "logo": null,
       "publisher": "ChatLocal",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46585081",
@@ -1607,8 +1522,7 @@
       "logo": null,
       "publisher": "13Radar",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46575621",
@@ -1627,8 +1541,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "yogirk"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46575321",
@@ -1646,8 +1559,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jobin-404"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46574402",
@@ -1666,8 +1578,7 @@
       "logo": null,
       "publisher": "Yash's Marketing And Tech Blogs",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46556239",
@@ -1686,8 +1597,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "SF-FLAM"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46583363",
@@ -1706,8 +1616,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sethirus"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46540794",
@@ -1726,8 +1635,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46572929",
@@ -1746,8 +1654,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "robotnikz"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46571992",
@@ -1765,8 +1672,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "tiann"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46596241",
@@ -1785,8 +1691,7 @@
       "logo": null,
       "publisher": "The Standard for Yacht Investment Intelligence",
       "author": "YachtValueReport"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46578951",
@@ -1804,8 +1709,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Llorx"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46589935",
@@ -1824,8 +1728,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46570569",
@@ -1843,8 +1746,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jobswithgpt"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46550571",
@@ -1863,8 +1765,7 @@
       "logo": null,
       "publisher": "CommitGuard",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46576367",
@@ -1883,8 +1784,7 @@
       "logo": null,
       "publisher": "fun-with-old-mainframes.github.io",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46573831",
@@ -1903,8 +1803,7 @@
       "logo": null,
       "publisher": "Imgur",
       "author": "Imgur"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46548238",
@@ -1923,8 +1822,7 @@
       "logo": null,
       "publisher": "abliteration.ai",
       "author": "Social Keyboard, Inc."
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46576153",
@@ -1942,8 +1840,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "aziis98"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46576150",
@@ -1962,8 +1859,7 @@
       "logo": null,
       "publisher": "FocusOS",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46566689",
@@ -1982,8 +1878,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "njbrake"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46574456",
@@ -2002,8 +1897,7 @@
       "logo": null,
       "publisher": "Your Ultimate Gaming Companion",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46537268",
@@ -2022,8 +1916,7 @@
       "logo": null,
       "publisher": "Sarthak Mishra",
       "author": "Sarthak Mishra"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46574254",
@@ -2042,8 +1935,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mfactory-osaka"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46573909",
@@ -2053,8 +1945,7 @@
     "author": "erikenanja",
     "score": 4,
     "comments": 1,
-    "timestamp": "2026-01-11T09:16:52 1768123012",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-11T09:16:52 1768123012"
   },
   {
     "id": "46532755",
@@ -2064,8 +1955,7 @@
     "author": "raymondtana",
     "score": 17,
     "comments": 1,
-    "timestamp": "2026-01-07T21:04:58 1767819898",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-07T21:04:58 1767819898"
   },
   {
     "id": "46573014",
@@ -2084,8 +1974,7 @@
       "logo": null,
       "publisher": "App Store",
       "author": "Thet Myat Noe"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46562703",
@@ -2104,8 +1993,7 @@
       "logo": null,
       "publisher": "Local SEO Heatmap Analysis",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46562251",
@@ -2124,8 +2012,7 @@
       "logo": null,
       "publisher": "PostgresGUI",
       "author": "PostgresGUI"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46572156",
@@ -2143,8 +2030,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "BlackVectorOps"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46561151",
@@ -2163,8 +2049,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "kaansenol5"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46531295",
@@ -2183,8 +2068,7 @@
       "logo": null,
       "publisher": "A-Z",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46570787",
@@ -2202,8 +2086,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "vaskort"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46570521",
@@ -2221,8 +2104,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jackthepunished"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46570425",
@@ -2241,8 +2123,7 @@
       "logo": null,
       "publisher": "Kliga",
       "author": "Kliga"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46570293",
@@ -2260,8 +2141,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "rinvii"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46569849",
@@ -2279,8 +2159,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "AustinWise"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46555781",
@@ -2299,8 +2178,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "yatarousan0227"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46569660",
@@ -2319,8 +2197,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "DiaaAj"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46555367",
@@ -2338,8 +2215,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "caesarnine"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46567894",
@@ -2358,8 +2234,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46552199",
@@ -2378,8 +2253,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "NevaMind-AI"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46566631",
@@ -2389,8 +2263,7 @@
     "author": "ZuoCen_Liu",
     "score": 4,
     "comments": 1,
-    "timestamp": "2026-01-10T15:43:25 1768059805",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-10T15:43:25 1768059805"
   },
   {
     "id": "46566128",
@@ -2408,8 +2281,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "k-ye"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46551046",
@@ -2428,8 +2300,7 @@
       "logo": null,
       "publisher": "Market Terminal™",
       "author": "Market Terminal™"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46550555",
@@ -2448,8 +2319,7 @@
       "logo": null,
       "publisher": "Image Splitter",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46579438",
@@ -2468,8 +2338,7 @@
       "logo": null,
       "publisher": "AI Vibe Coding Hackathon",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46537708",
@@ -2488,8 +2357,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "zonghaoyuan"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46549790",
@@ -2508,8 +2376,7 @@
       "logo": null,
       "publisher": "LayoffsToday",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46564317",
@@ -2527,8 +2394,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Scalerize"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46548475",
@@ -2538,8 +2404,7 @@
     "author": "jannesblobel",
     "score": 8,
     "comments": 0,
-    "timestamp": "2026-01-09T00:20:41 1767918041",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-09T00:20:41 1767918041"
   },
   {
     "id": "46546117",
@@ -2549,8 +2414,7 @@
     "author": "alwinaugustin",
     "score": 6,
     "comments": 0,
-    "timestamp": "2026-01-08T20:37:48 1767904668",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-08T20:37:48 1767904668"
   },
   {
     "id": "46545628",
@@ -2569,8 +2433,7 @@
       "logo": null,
       "publisher": "Notion Portals",
       "author": "Notion Portals"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46562866",
@@ -2589,8 +2452,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46544142",
@@ -2609,8 +2471,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "wandb"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46561801",
@@ -2629,8 +2490,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mateolafalce"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46561392",
@@ -2649,8 +2509,7 @@
       "logo": null,
       "publisher": "arxiv2md",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46561341",
@@ -2668,8 +2527,7 @@
       "logo": null,
       "publisher": "Kicya",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46540075",
@@ -2688,8 +2546,7 @@
       "logo": null,
       "publisher": "Game Replay",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46560821",
@@ -2708,8 +2565,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "meigma"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46539838",
@@ -2719,8 +2575,7 @@
     "author": "killian_larcher",
     "score": 6,
     "comments": 0,
-    "timestamp": "2026-01-08T11:26:16 1767871576",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-08T11:26:16 1767871576"
   },
   {
     "id": "46559757",
@@ -2739,8 +2594,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46559074",
@@ -2759,8 +2613,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46558757",
@@ -2778,8 +2631,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "txemi"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46558244",
@@ -2797,8 +2649,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "bjornorri"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46558236",
@@ -2817,8 +2668,7 @@
       "logo": null,
       "publisher": "X-half",
       "author": "Permalink to this slide"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46536678",
@@ -2837,8 +2687,7 @@
       "logo": null,
       "publisher": "Open Source AI GitHub Projects Hub",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46555746",
@@ -2857,8 +2706,7 @@
       "logo": null,
       "publisher": "GitChoco",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46533299",
@@ -2876,8 +2724,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "memgrafter"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46532597",
@@ -2895,8 +2742,7 @@
       "logo": null,
       "publisher": "MCP Workbench",
       "author": "Orkes, Inc."
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46532410",
@@ -2914,8 +2760,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "freeman-jiang"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46532270",
@@ -2933,8 +2778,7 @@
       "logo": null,
       "publisher": "Game Boy Essentials",
       "author": "Pierre-Luc Gagné"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46532146",
@@ -2953,8 +2797,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "williamcotton"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46552991",
@@ -2972,8 +2815,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "skorotkiewicz"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46572501",
@@ -2991,8 +2833,7 @@
       "logo": null,
       "publisher": "From the Brand",
       "author": "Follow"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46550134",
@@ -3011,8 +2852,7 @@
       "logo": null,
       "publisher": "Image Scaler",
       "author": "Image Scaler Service"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46549488",
@@ -3030,8 +2870,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "kjnez"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46548916",
@@ -3050,8 +2889,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "benward2301"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46610419",
@@ -3061,8 +2899,7 @@
     "author": "glennhv",
     "score": 3,
     "comments": 0,
-    "timestamp": "2026-01-14T00:04:25 1768349065",
-    "category": "Financial & Budgeting Apps"
+    "timestamp": "2026-01-14T00:04:25 1768349065"
   },
   {
     "id": "46609805",
@@ -3081,8 +2918,7 @@
       "logo": null,
       "publisher": "HugeDomains",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46609410",
@@ -3101,8 +2937,7 @@
       "logo": null,
       "publisher": "Ultrathink",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46609198",
@@ -3121,8 +2956,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "edde746"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46609184",
@@ -3132,8 +2966,7 @@
     "author": "jphfa",
     "score": 1,
     "comments": 1,
-    "timestamp": "2026-01-13T22:23:32 1768343012",
-    "category": "Creative & Media Tools"
+    "timestamp": "2026-01-13T22:23:32 1768343012"
   },
   {
     "id": "46608856",
@@ -3152,8 +2985,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "back-me-up-scotty"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46608519",
@@ -3172,8 +3004,7 @@
       "logo": null,
       "publisher": "Sefik Ilkin Serengil",
       "author": "Sefik Serengil"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46608338",
@@ -3191,8 +3022,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jmaczan"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46608207",
@@ -3210,8 +3040,7 @@
       "logo": null,
       "publisher": "AI Shortcut Lab",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46608017",
@@ -3230,8 +3059,7 @@
       "logo": null,
       "publisher": "Features",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46607877",
@@ -3250,8 +3078,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Chrilleweb"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46607282",
@@ -3269,8 +3096,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "naamanu"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46607268",
@@ -3288,8 +3114,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "naamanu"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46607235",
@@ -3308,8 +3133,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "naamanu"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46607199",
@@ -3328,8 +3152,7 @@
       "logo": null,
       "publisher": "Transform Your Photo into a Tiny Figurine",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46606802",
@@ -3348,8 +3171,7 @@
       "logo": null,
       "publisher": "The simplest API to send and receive emails",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46606563",
@@ -3367,8 +3189,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "janbalangue"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46605985",
@@ -3386,8 +3207,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Emmanuel326"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46605681",
@@ -3406,8 +3226,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "night-slayer18"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46605609",
@@ -3425,8 +3244,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "aspectrr"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46605386",
@@ -3436,8 +3254,7 @@
     "author": "JAnicaTZ",
     "score": 1,
     "comments": 1,
-    "timestamp": "2026-01-13T18:25:37 1768328737",
-    "category": "Education & Learning Tools"
+    "timestamp": "2026-01-13T18:25:37 1768328737"
   },
   {
     "id": "46605307",
@@ -3456,8 +3273,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46605224",
@@ -3476,8 +3292,7 @@
       "logo": null,
       "publisher": null,
       "author": "Paul Sanglé-Ferrière"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46605190",
@@ -3496,8 +3311,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46605070",
@@ -3516,8 +3330,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "pangoleen"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46604786",
@@ -3536,8 +3349,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "ramn51"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46604650",
@@ -3555,8 +3367,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "troyshu"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46604394",
@@ -3575,8 +3386,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46604377",
@@ -3594,8 +3404,7 @@
       "logo": null,
       "publisher": "ShowShowShow",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46604308",
@@ -3614,8 +3423,7 @@
       "logo": null,
       "publisher": "Tsonic",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46604283",
@@ -3634,8 +3442,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "madeinplutofabio"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46604166",
@@ -3645,8 +3452,7 @@
     "author": "mfdupuis",
     "score": 5,
     "comments": 1,
-    "timestamp": "2026-01-13T17:19:04 1768324744",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-13T17:19:04 1768324744"
   },
   {
     "id": "46604108",
@@ -3664,8 +3470,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Michael-A-Kuykendall"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46604078",
@@ -3684,8 +3489,7 @@
       "logo": "https://modernpentest.com/logo.png",
       "publisher": "ModernPentest",
       "author": "ModernPentest Team"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46604067",
@@ -3704,8 +3508,7 @@
       "logo": null,
       "publisher": "Apple",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46603968",
@@ -3715,8 +3518,7 @@
     "author": "drskyle",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-13T17:08:12 1768324092",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-13T17:08:12 1768324092"
   },
   {
     "id": "46603967",
@@ -3734,8 +3536,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "DmitryBochkarev"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46603921",
@@ -3754,8 +3555,7 @@
       "logo": null,
       "publisher": "Get Started",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46603772",
@@ -3773,8 +3573,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jobin-404"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46603733",
@@ -3793,8 +3592,7 @@
       "logo": null,
       "publisher": "Smmall Cloud",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46603626",
@@ -3813,8 +3611,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "msrmdhcc"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46603309",
@@ -3833,8 +3630,7 @@
       "logo": null,
       "publisher": "JotBird",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46603170",
@@ -3852,8 +3648,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "yiouli"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46603165",
@@ -3872,8 +3667,7 @@
       "logo": null,
       "publisher": "SQG - Compile SQL to Type-Safe Code",
       "author": null
-    },
-    "category": "Other"
+    }
   },
   {
     "id": "46603118",
@@ -3892,8 +3686,7 @@
       "logo": null,
       "publisher": "Energy Optimization System",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46602932",
@@ -3912,8 +3705,7 @@
       "logo": null,
       "publisher": "Memovee",
       "author": "Upmaru, Inc."
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46602909",
@@ -3931,8 +3723,7 @@
       "logo": null,
       "publisher": "Verdic Guard",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46602860",
@@ -3951,8 +3742,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46602851",
@@ -3971,8 +3761,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46602825",
@@ -3991,8 +3780,7 @@
       "logo": null,
       "publisher": "Apify",
       "author": "Peter"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46602822",
@@ -4002,8 +3790,7 @@
     "author": "kundan_s__r",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-13T16:05:02 1768320302",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-13T16:05:02 1768320302"
   },
   {
     "id": "46602819",
@@ -4022,8 +3809,7 @@
       "logo": null,
       "publisher": "Hivinq",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46602817",
@@ -4042,8 +3828,7 @@
       "logo": null,
       "publisher": "Puzzles By Nathan",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46602790",
@@ -4061,8 +3846,7 @@
       "logo": null,
       "publisher": null,
       "author": "Patrik Cihal"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46602716",
@@ -4081,8 +3865,7 @@
       "logo": null,
       "publisher": "Gridfy.io",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46602671",
@@ -4101,8 +3884,7 @@
       "logo": null,
       "publisher": "termstream",
       "author": "termstream"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46602660",
@@ -4121,8 +3903,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "travisred"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46602652",
@@ -4141,8 +3922,7 @@
       "logo": null,
       "publisher": "Lead Chants at Protests, Sports Events & Rallies",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46602514",
@@ -4152,8 +3932,7 @@
     "author": "orzmar",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-13T15:48:06 1768319286",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-13T15:48:06 1768319286"
   },
   {
     "id": "46602429",
@@ -4172,8 +3951,7 @@
       "logo": null,
       "publisher": "Web Scraping + Change Detection",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46602217",
@@ -4192,8 +3970,7 @@
       "logo": null,
       "publisher": "DynamicScreen",
       "author": "DynamicScreen"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46602210",
@@ -4212,8 +3989,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "ivg-design"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46602205",
@@ -4232,8 +4008,7 @@
       "logo": null,
       "publisher": "Qonvo",
       "author": "Digiwares"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46602169",
@@ -4252,8 +4027,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46602139",
@@ -4271,8 +4045,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sung01299"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46601983",
@@ -4290,8 +4063,7 @@
       "logo": null,
       "publisher": "Lily",
       "author": "Lily"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46601965",
@@ -4310,8 +4082,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46601938",
@@ -4321,8 +4092,7 @@
     "author": "Leczek",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-13T15:06:20 1768316780",
-    "category": "Creative & Media Tools"
+    "timestamp": "2026-01-13T15:06:20 1768316780"
   },
   {
     "id": "46601905",
@@ -4341,8 +4111,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "nnnkkk7"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46601878",
@@ -4361,8 +4130,7 @@
       "logo": "https://revise.io/revise-192x192.png",
       "publisher": "Revise",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46601844",
@@ -4381,8 +4149,7 @@
       "logo": null,
       "publisher": "Dreadmyst Build Simulator",
       "author": "Dreadmyst Build Simulator Team"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46601763",
@@ -4401,8 +4168,7 @@
       "logo": null,
       "publisher": "Own Your City",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46601652",
@@ -4421,8 +4187,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "iOfficeAI"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46601595",
@@ -4440,8 +4205,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "federicolepera"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46601511",
@@ -4460,8 +4224,7 @@
       "logo": null,
       "publisher": "OneView",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46601471",
@@ -4480,8 +4243,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46601429",
@@ -4500,8 +4262,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "prakhar1114"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46601411",
@@ -4519,8 +4280,7 @@
       "logo": null,
       "publisher": "WatchLLM",
       "author": "Pranav Kaadi"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46601368",
@@ -4539,8 +4299,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46601360",
@@ -4559,8 +4318,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46601227",
@@ -4579,8 +4337,7 @@
       "logo": null,
       "publisher": "Marketplace for AI-Assisted Professionals",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46601216",
@@ -4599,8 +4356,7 @@
       "logo": null,
       "publisher": "SharpSkill",
       "author": "SharpSkill"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46601211",
@@ -4619,8 +4375,7 @@
       "logo": null,
       "publisher": "WhenNOT.com",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46601181",
@@ -4639,8 +4394,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "cdump"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46601094",
@@ -4659,8 +4413,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "oug-t"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46601071",
@@ -4679,8 +4432,7 @@
       "logo": null,
       "publisher": "Swagger UI",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46601070",
@@ -4698,8 +4450,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "tom-pytel"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46600999",
@@ -4717,8 +4468,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "petzi2311"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46600978",
@@ -4728,8 +4478,7 @@
     "author": "internintern",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-13T13:58:48 1768312728",
-    "category": "Data Management & Visualization"
+    "timestamp": "2026-01-13T13:58:48 1768312728"
   },
   {
     "id": "46600945",
@@ -4748,8 +4497,7 @@
       "logo": null,
       "publisher": "Mock REST API Generator for Developers",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46600882",
@@ -4768,8 +4516,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46600785",
@@ -4788,8 +4535,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46600709",
@@ -4808,8 +4554,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46600555",
@@ -4828,8 +4573,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46600467",
@@ -4847,8 +4591,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "disciplinedware"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46600381",
@@ -4867,8 +4610,7 @@
       "logo": null,
       "publisher": "Img2Img.net",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46600338",
@@ -4886,8 +4628,7 @@
       "logo": null,
       "publisher": "Xweather Live",
       "author": "Xweather"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46600291",
@@ -4906,8 +4647,7 @@
       "logo": null,
       "publisher": "Build Your Business In Hours, Not Weeks",
       "author": "Vibe Coding Starter Kit"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46600290",
@@ -4925,8 +4665,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "bbbneo333"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46600287",
@@ -4936,8 +4675,7 @@
     "author": "maximus242",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-13T12:50:22 1768308622",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-13T12:50:22 1768308622"
   },
   {
     "id": "46600229",
@@ -4956,8 +4694,7 @@
       "logo": null,
       "publisher": "Talkolia",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46600002",
@@ -4976,8 +4713,7 @@
       "logo": null,
       "publisher": "Calculate Your Contribution",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46599958",
@@ -4996,8 +4732,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46599896",
@@ -5016,8 +4751,7 @@
       "logo": null,
       "publisher": "AI Flashcard Generator",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46599829",
@@ -5036,8 +4770,7 @@
       "logo": null,
       "publisher": "Learn, Build & Share with AI",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46599821",
@@ -5055,8 +4788,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "debba"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46599801",
@@ -5074,8 +4806,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "thepoorsatitagain"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46599761",
@@ -5094,8 +4825,7 @@
       "logo": null,
       "publisher": "MousePollingRateTest",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46599733",
@@ -5114,8 +4844,7 @@
       "logo": null,
       "publisher": "Fruito",
       "author": "Sawir Studio"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46599604",
@@ -5134,8 +4863,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46599567",
@@ -5153,8 +4881,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "dohuyhoang93"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46599462",
@@ -5172,8 +4899,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "midry3"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46599403",
@@ -5192,8 +4918,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46599164",
@@ -5212,8 +4937,7 @@
       "logo": null,
       "publisher": "TV Ratings Dashboard",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46599021",
@@ -5223,8 +4947,7 @@
     "author": "slmslm22",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-13T09:52:36 1768297956",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-13T09:52:36 1768297956"
   },
   {
     "id": "46598970",
@@ -5243,8 +4966,7 @@
       "logo": null,
       "publisher": "BasinCheck",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46598959",
@@ -5263,8 +4985,7 @@
       "logo": null,
       "publisher": "Ginny and Georgia Character Test",
       "author": "Ginny and Georgia Character Test"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46598910",
@@ -5283,8 +5004,7 @@
       "logo": null,
       "publisher": "QPost",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46598875",
@@ -5303,8 +5023,7 @@
       "logo": null,
       "publisher": "Home Design AI",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46598743",
@@ -5322,8 +5041,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "dremok"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46598688",
@@ -5342,8 +5060,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Trendyol"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46598639",
@@ -5362,8 +5079,7 @@
       "logo": null,
       "publisher": "Shorta",
       "author": "Dale Ma"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46598584",
@@ -5381,8 +5097,7 @@
       "logo": null,
       "publisher": "Speaking Time Calculator",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46598483",
@@ -5400,8 +5115,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mingulov"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46598462",
@@ -5420,8 +5134,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "baidu-baige"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46598427",
@@ -5440,8 +5153,7 @@
       "logo": null,
       "publisher": "A Bug Bounty Program Platform",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46598379",
@@ -5460,8 +5172,7 @@
       "logo": null,
       "publisher": "IT Wordsearch",
       "author": "IT Wordsearch Labs"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46598373",
@@ -5480,8 +5191,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "BarutSRB"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46598301",
@@ -5500,8 +5210,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46598252",
@@ -5520,8 +5229,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46598109",
@@ -5540,8 +5248,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "bm611"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46597824",
@@ -5559,8 +5266,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "divyenduz"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46597694",
@@ -5578,8 +5284,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "0plus1"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46597331",
@@ -5597,8 +5302,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "futureisAJASU"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46597295",
@@ -5617,8 +5321,7 @@
       "logo": null,
       "publisher": "ToolsAid",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46597243",
@@ -5637,8 +5340,7 @@
       "logo": null,
       "publisher": "IMGto3D.ai",
       "author": "imgto3d"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46597062",
@@ -5657,8 +5359,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "zdunecki"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46597049",
@@ -5676,8 +5377,7 @@
       "logo": null,
       "publisher": "PrivateLink",
       "author": "Private Link LLC"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46597015",
@@ -5695,8 +5395,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "yazeed"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46596817",
@@ -5715,8 +5414,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46596744",
@@ -5735,8 +5433,7 @@
       "logo": null,
       "publisher": "Promtist",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46596648",
@@ -5754,8 +5451,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "exiw-ai"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46596632",
@@ -5774,8 +5470,7 @@
       "logo": null,
       "publisher": "Screen Recording, Simplified",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46596564",
@@ -5785,8 +5480,7 @@
     "author": "volokh",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-13T01:58:33 1768269513",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-13T01:58:33 1768269513"
   },
   {
     "id": "46596483",
@@ -5805,8 +5499,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "tesserato"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46596281",
@@ -5825,8 +5518,7 @@
       "logo": null,
       "publisher": "Idlen",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46596027",
@@ -5844,8 +5536,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "benjamin-feldman"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46595988",
@@ -5855,8 +5546,7 @@
     "author": "puildupO",
     "score": 4,
     "comments": 2,
-    "timestamp": "2026-01-13T00:36:00 1768264560",
-    "category": "Financial & Budgeting Apps"
+    "timestamp": "2026-01-13T00:36:00 1768264560"
   },
   {
     "id": "46595867",
@@ -5874,8 +5564,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "nwindian"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46595859",
@@ -5894,8 +5583,7 @@
       "logo": null,
       "publisher": "Hidden Signal",
       "author": "PJ Hoberman"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46595714",
@@ -5914,8 +5602,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "vuepont"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46595460",
@@ -5934,8 +5621,7 @@
       "logo": null,
       "publisher": "AI-First Academy",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46595449",
@@ -5953,8 +5639,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "attunehq"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46594942",
@@ -5973,8 +5658,7 @@
       "logo": null,
       "publisher": "Discover New Music",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46594717",
@@ -5992,8 +5676,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mu4farooqi"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46594664",
@@ -6011,8 +5694,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mojoatomic"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46594366",
@@ -6031,8 +5713,7 @@
       "logo": null,
       "publisher": "Decision Memory for Agentic AI",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46594351",
@@ -6051,8 +5732,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "kevinshowkat"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46594292",
@@ -6071,8 +5751,7 @@
       "logo": null,
       "publisher": "ASCII Vector Graphics Editor",
       "author": "Asciistrator"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46594198",
@@ -6091,8 +5770,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "il-b"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46593987",
@@ -6111,8 +5789,7 @@
       "logo": null,
       "publisher": "SyncAI",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46593968",
@@ -6130,8 +5807,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mflowrs"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46593695",
@@ -6150,8 +5826,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46593419",
@@ -6170,8 +5845,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sleuth-io"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46593412",
@@ -6189,8 +5863,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "stonehedgelabs"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46593389",
@@ -6208,8 +5881,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "metareflection"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46593017",
@@ -6228,8 +5900,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46592879",
@@ -6247,8 +5918,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "namin"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46592796",
@@ -6267,8 +5937,7 @@
       "logo": null,
       "publisher": "App Store",
       "author": "Martin Gabriel Maldonado"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46592775",
@@ -6287,8 +5956,7 @@
       "logo": null,
       "publisher": "JebKharch",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46592652",
@@ -6307,8 +5975,7 @@
       "logo": null,
       "publisher": "Don't Get Ripped Off on Your Home Project",
       "author": "Compare Contractor Quotes"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46592505",
@@ -6327,8 +5994,7 @@
       "logo": null,
       "publisher": null,
       "author": "Creaibo"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46591880",
@@ -6347,8 +6013,7 @@
       "logo": null,
       "publisher": "Conut.ai",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46591796",
@@ -6367,8 +6032,7 @@
       "logo": null,
       "publisher": null,
       "author": "S Samarth Hathwar Backend Engineer, 6.5 years enterprise experience"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46591654",
@@ -6387,8 +6051,7 @@
       "logo": null,
       "publisher": "Homelab Creator",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46591535",
@@ -6406,8 +6069,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Lettria"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46591430",
@@ -6426,8 +6088,7 @@
       "logo": null,
       "publisher": "Sign up",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46591395",
@@ -6445,8 +6106,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "qudent"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46591379",
@@ -6465,8 +6125,7 @@
       "logo": null,
       "publisher": "Cozy Cafe",
       "author": "Sawir Studio"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46591238",
@@ -6484,8 +6143,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jsegov"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46591196",
@@ -6504,8 +6162,7 @@
       "logo": null,
       "publisher": "FlowDeck",
       "author": "Daniel Bernal"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46591145",
@@ -6524,8 +6181,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "avkcode"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46591085",
@@ -6544,8 +6200,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "akopich"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46591020",
@@ -6563,8 +6218,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "IgorFilippov3"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46590798",
@@ -6583,8 +6237,7 @@
       "logo": null,
       "publisher": "logo",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46590764",
@@ -6602,8 +6255,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "famasya"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46590751",
@@ -6621,8 +6273,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "caesarnine"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46590647",
@@ -6632,8 +6283,7 @@
     "author": "itsderek23",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-12T16:26:33 1768235193",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-12T16:26:33 1768235193"
   },
   {
     "id": "46590565",
@@ -6651,8 +6301,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "AndurilCode"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46590422",
@@ -6670,8 +6319,7 @@
       "logo": null,
       "publisher": "CleanCloud",
       "author": "CleanCloud"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46590277",
@@ -6690,8 +6338,7 @@
       "logo": null,
       "publisher": "Priyavrat Misra",
       "author": "Priyavrat Misra"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46590208",
@@ -6710,8 +6357,7 @@
       "logo": null,
       "publisher": "ETLR",
       "author": "ETLR"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46590116",
@@ -6729,8 +6375,7 @@
       "logo": null,
       "publisher": "Bank Statement Converter",
       "author": "Bank Statement Converter"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46590068",
@@ -6748,8 +6393,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "blixt"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46590010",
@@ -6768,8 +6412,7 @@
       "logo": null,
       "publisher": "intertooth",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46589843",
@@ -6787,8 +6430,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "federicolepera"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46589756",
@@ -6807,8 +6449,7 @@
       "logo": null,
       "publisher": "troels.im",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46589713",
@@ -6818,8 +6459,7 @@
     "author": "vinkupa",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-12T15:25:09 1768231509",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-12T15:25:09 1768231509"
   },
   {
     "id": "46589573",
@@ -6838,8 +6478,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jacobcoughenour"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46589463",
@@ -6858,8 +6497,7 @@
       "logo": null,
       "publisher": "ZeroFormat",
       "author": "ZeroFormat"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46589284",
@@ -6869,8 +6507,7 @@
     "author": "AndreiBargan",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-12T14:50:53 1768229453",
-    "category": "Creative & Media Tools"
+    "timestamp": "2026-01-12T14:50:53 1768229453"
   },
   {
     "id": "46589059",
@@ -6889,8 +6526,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Noamismach"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46589039",
@@ -6900,8 +6536,7 @@
     "author": "kundan_s__r",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-12T14:32:54 1768228374",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-12T14:32:54 1768228374"
   },
   {
     "id": "46588951",
@@ -6911,8 +6546,7 @@
     "author": "slmslm22",
     "score": 2,
     "comments": 4,
-    "timestamp": "2026-01-12T14:26:50 1768228010",
-    "category": "Financial & Budgeting Apps"
+    "timestamp": "2026-01-12T14:26:50 1768228010"
   },
   {
     "id": "46588907",
@@ -6930,8 +6564,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mullionlabs"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46588866",
@@ -6949,8 +6582,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "yuuichieguchi"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46588842",
@@ -6969,8 +6601,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46588665",
@@ -6989,8 +6620,7 @@
       "logo": null,
       "publisher": "Word of the Day",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46588608",
@@ -7000,8 +6630,7 @@
     "author": "steer_dev",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-12T13:59:57 1768226397",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-12T13:59:57 1768226397"
   },
   {
     "id": "46588517",
@@ -7020,8 +6649,7 @@
       "logo": null,
       "publisher": "YouTube",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46588453",
@@ -7040,8 +6668,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "yunjywork"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46588377",
@@ -7059,8 +6686,7 @@
       "logo": "https://getdogear.com/wp-content/uploads/2026/01/Untitled-design.png",
       "publisher": "DogEar",
       "author": "iamhigiogmail.com"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46588344",
@@ -7079,8 +6705,7 @@
       "logo": null,
       "publisher": "Vibe Codors",
       "author": "Vibe Codors"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46588311",
@@ -7098,8 +6723,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "TaklaXBR"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46588217",
@@ -7118,8 +6742,7 @@
       "logo": null,
       "publisher": "Remove Gemini Watermark",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46588212",
@@ -7137,8 +6760,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "pierrepocreau"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46588138",
@@ -7156,8 +6778,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "clementrog"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46588052",
@@ -7176,8 +6797,7 @@
       "logo": null,
       "publisher": "Instant Linux Boxes via SSH",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46587972",
@@ -7187,8 +6807,7 @@
     "author": "kundan_s__r",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-12T13:10:50 1768223450",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-12T13:10:50 1768223450"
   },
   {
     "id": "46587830",
@@ -7206,8 +6825,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "caesarnine"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46587814",
@@ -7226,8 +6844,7 @@
       "logo": null,
       "publisher": "Nebly",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46587761",
@@ -7245,8 +6862,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "KevinColemanInc"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46587757",
@@ -7256,8 +6872,7 @@
     "author": "alexsherrick",
     "score": 2,
     "comments": 3,
-    "timestamp": "2026-01-12T12:53:02 1768222382",
-    "category": "Creative & Media Tools"
+    "timestamp": "2026-01-12T12:53:02 1768222382"
   },
   {
     "id": "46587749",
@@ -7276,8 +6891,7 @@
       "logo": null,
       "publisher": "Open Framework for Regulation-Following AI Agents",
       "author": "Lloyd Jones"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46587660",
@@ -7287,8 +6901,7 @@
     "author": "Nancy1230",
     "score": 1,
     "comments": 1,
-    "timestamp": "2026-01-12T12:42:41 1768221761",
-    "category": "Creative & Media Tools"
+    "timestamp": "2026-01-12T12:42:41 1768221761"
   },
   {
     "id": "46587491",
@@ -7307,8 +6920,7 @@
       "logo": null,
       "publisher": "PAIRLANE",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46587391",
@@ -7327,8 +6939,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mms-gianni"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46587375",
@@ -7347,8 +6958,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46587369",
@@ -7367,8 +6977,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46587349",
@@ -7387,8 +6996,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46587320",
@@ -7407,8 +7015,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "ZJU-DAILY"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46587312",
@@ -7427,8 +7034,7 @@
       "logo": null,
       "publisher": "Gumroad",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46587253",
@@ -7438,8 +7044,7 @@
     "author": "DenisDolya",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-12T12:00:05 1768219205",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-12T12:00:05 1768219205"
   },
   {
     "id": "46587172",
@@ -7458,8 +7063,7 @@
       "logo": null,
       "publisher": "Uptrace",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46587158",
@@ -7478,8 +7082,7 @@
       "logo": null,
       "publisher": "Max Requirements",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46587113",
@@ -7498,8 +7101,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46586960",
@@ -7518,8 +7120,7 @@
       "logo": null,
       "publisher": "arXiv.org",
       "author": "Tingyang Chen"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46586899",
@@ -7538,8 +7139,7 @@
       "logo": null,
       "publisher": "Discover Amazing Places",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46586875",
@@ -7558,8 +7158,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "teng-lin"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46586841",
@@ -7578,8 +7177,7 @@
       "logo": null,
       "publisher": "BunkerWeb",
       "author": "CityBee"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46586820",
@@ -7598,8 +7196,7 @@
       "logo": null,
       "publisher": "HN · Midjourney · GitHub Live",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46586771",
@@ -7618,8 +7215,7 @@
       "logo": null,
       "publisher": "App Store",
       "author": "SCALESWIFT DIGITAL SERVICES LLP"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46586710",
@@ -7638,8 +7234,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "evangelosmeklis"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46586705",
@@ -7658,8 +7253,7 @@
       "logo": null,
       "publisher": "Ask AI about Tokyo land prices",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46586570",
@@ -7677,8 +7271,7 @@
       "logo": null,
       "publisher": "uilaa",
       "author": "uilaa"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46586434",
@@ -7697,8 +7290,7 @@
       "logo": null,
       "publisher": "Realwork",
       "author": "Realwork"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46586274",
@@ -7716,8 +7308,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "shreeradhika623-sudo"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46586261",
@@ -7736,8 +7327,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46586242",
@@ -7756,8 +7346,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46586113",
@@ -7776,8 +7365,7 @@
       "logo": null,
       "publisher": "Palix AI",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46586110",
@@ -7795,8 +7383,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Dee66"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46585673",
@@ -7815,8 +7402,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "cobel1024"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46585639",
@@ -7835,8 +7421,7 @@
       "logo": null,
       "publisher": null,
       "author": "Lovable"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46585502",
@@ -7854,8 +7439,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "halcarrell"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46585467",
@@ -7874,8 +7458,7 @@
       "logo": null,
       "publisher": "BrightKeyword",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46585378",
@@ -7894,8 +7477,7 @@
       "logo": null,
       "publisher": "MyOG.social",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46585244",
@@ -7914,8 +7496,7 @@
       "logo": null,
       "publisher": "Subnet Mask Cheat Sheet",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46584740",
@@ -7934,8 +7515,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Mati365"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46584720",
@@ -7953,8 +7533,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "akshay326"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46584690",
@@ -7973,8 +7552,7 @@
       "logo": null,
       "publisher": "Transform Web",
       "author": "Transform Web"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46584528",
@@ -7993,8 +7571,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46584425",
@@ -8012,8 +7589,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Tarunjit45"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46584414",
@@ -8032,8 +7608,7 @@
       "logo": null,
       "publisher": "uldl.sh",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46584264",
@@ -8051,8 +7626,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "binbandit"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46584137",
@@ -8070,8 +7644,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "merchantmoh-debug"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46584002",
@@ -8090,8 +7663,7 @@
       "logo": null,
       "publisher": "Karmic Tail Calculator",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46583969",
@@ -8109,8 +7681,7 @@
       "logo": null,
       "publisher": "Pointa.dev",
       "author": "Pointa"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46583957",
@@ -8129,8 +7700,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jackchuka"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46583935",
@@ -8149,8 +7719,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46583803",
@@ -8168,8 +7737,7 @@
       "logo": null,
       "publisher": "Cleaner",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46583687",
@@ -8179,8 +7747,7 @@
     "author": "ukrocks007",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-12T03:23:32 1768188212",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-12T03:23:32 1768188212"
   },
   {
     "id": "46583675",
@@ -8198,8 +7765,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "NISH1001"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46583346",
@@ -8218,8 +7784,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "senguttuvang"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46582759",
@@ -8237,8 +7802,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "yuuichieguchi"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46582532",
@@ -8257,8 +7821,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "hackerbirds"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46582530",
@@ -8277,8 +7840,7 @@
       "logo": null,
       "publisher": "Temporary Transfer",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46582497",
@@ -8297,8 +7859,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "pozgo"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46582477",
@@ -8317,8 +7878,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Louw115"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46582308",
@@ -8337,8 +7897,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Social Media & Community Projects"
+    }
   },
   {
     "id": "46582248",
@@ -8357,8 +7916,7 @@
       "logo": null,
       "publisher": "typester.dev",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46582158",
@@ -8377,8 +7935,7 @@
       "logo": null,
       "publisher": "Learn to Buy Profitable Businesses",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46581977",
@@ -8397,8 +7954,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46581920",
@@ -8417,8 +7973,7 @@
       "logo": null,
       "publisher": "Autonomous fundraising AI",
       "author": "Pilt"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46581836",
@@ -8428,8 +7983,7 @@
     "author": "emanoj",
     "score": 2,
     "comments": 3,
-    "timestamp": "2026-01-11T23:49:52 1768175392",
-    "category": "Creative & Media Tools"
+    "timestamp": "2026-01-11T23:49:52 1768175392"
   },
   {
     "id": "46581832",
@@ -8447,8 +8001,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "baturyilmaz"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46581745",
@@ -8458,8 +8011,7 @@
     "author": "init0",
     "score": 4,
     "comments": 0,
-    "timestamp": "2026-01-11T23:38:41 1768174721",
-    "category": "Education & Learning Tools"
+    "timestamp": "2026-01-11T23:38:41 1768174721"
   },
   {
     "id": "46581534",
@@ -8477,8 +8029,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jdvanwijk"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46581334",
@@ -8496,8 +8047,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Jennaleighwilder"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46581314",
@@ -8516,8 +8066,7 @@
       "logo": null,
       "publisher": "Sonars",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46580950",
@@ -8536,8 +8085,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46580750",
@@ -8547,8 +8095,7 @@
     "author": "io_eric",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-11T22:04:55 1768169095",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-11T22:04:55 1768169095"
   },
   {
     "id": "46580719",
@@ -8566,8 +8113,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "crushr3sist"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46580642",
@@ -8586,8 +8132,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46580546",
@@ -8606,8 +8151,7 @@
       "logo": null,
       "publisher": "Kibbler",
       "author": "Kibbler"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46580505",
@@ -8626,8 +8170,7 @@
       "logo": null,
       "publisher": "PyPI",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46580344",
@@ -8646,8 +8189,7 @@
       "logo": null,
       "publisher": "App Store",
       "author": "Cortado Labs, LLC"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46580094",
@@ -8666,8 +8208,7 @@
       "logo": null,
       "publisher": "WeatherToRun",
       "author": "WeatherToRun"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46580072",
@@ -8686,8 +8227,7 @@
       "logo": null,
       "publisher": "Stronger Verbs for Cleaner Writing",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46579787",
@@ -8706,8 +8246,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "dnouri"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46579514",
@@ -8726,8 +8265,7 @@
       "logo": null,
       "publisher": "react-sharesheet",
       "author": "Gwendall"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46579499",
@@ -8746,8 +8284,7 @@
       "logo": null,
       "publisher": "Karmic Tail",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46579496",
@@ -8757,8 +8294,7 @@
     "author": "ryuzaburo",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-11T20:12:28 1768162348",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-11T20:12:28 1768162348"
   },
   {
     "id": "46579370",
@@ -8777,8 +8313,7 @@
       "logo": null,
       "publisher": "Sunshine Optimist",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46578880",
@@ -8797,8 +8332,7 @@
       "logo": null,
       "publisher": "What the Food",
       "author": "Odeh Ahwal"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46578728",
@@ -8816,8 +8350,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "NishantHustler"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46578640",
@@ -8836,8 +8369,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46578430",
@@ -8855,8 +8387,7 @@
       "logo": null,
       "publisher": "uilaa",
       "author": "uilaa"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46578237",
@@ -8875,8 +8406,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "railgunlabs"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46578215",
@@ -8894,8 +8424,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "ThorneShadowbane"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46577727",
@@ -8914,8 +8443,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "yakohere"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46577702",
@@ -8933,8 +8461,7 @@
       "logo": null,
       "publisher": "Nucleus IDE",
       "author": "Terramind"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46577662",
@@ -8953,8 +8480,7 @@
       "logo": null,
       "publisher": "System of Record",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46577443",
@@ -8973,8 +8499,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46577383",
@@ -8993,8 +8518,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46577230",
@@ -9013,8 +8537,7 @@
       "logo": null,
       "publisher": "Vibe App Scanner",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46577221",
@@ -9033,8 +8556,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "matteuccimarco"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46577159",
@@ -9044,8 +8566,7 @@
     "author": "PrimalOrigins",
     "score": 5,
     "comments": 2,
-    "timestamp": "2026-01-11T16:35:29 1768149329",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-11T16:35:29 1768149329"
   },
   {
     "id": "46576967",
@@ -9064,8 +8585,7 @@
       "logo": null,
       "publisher": "DomNest",
       "author": "DomNest"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46576857",
@@ -9084,8 +8604,7 @@
       "logo": null,
       "publisher": "Nexus Gateway",
       "author": "Sunny Anand"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46576687",
@@ -9103,8 +8622,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "EvgeniiKlepilin"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46576670",
@@ -9114,8 +8632,7 @@
     "author": "tasssmaal",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-11T15:42:15 1768146135",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-11T15:42:15 1768146135"
   },
   {
     "id": "46576605",
@@ -9134,8 +8651,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "laphilosophia"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46576596",
@@ -9153,8 +8669,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sawirstudio"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46576595",
@@ -9173,8 +8688,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "anzeumek"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46576482",
@@ -9193,8 +8707,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46576440",
@@ -9213,8 +8726,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "ExpressGradient"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46576412",
@@ -9233,8 +8745,7 @@
       "logo": null,
       "publisher": "Puzzles By Nathan",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46576383",
@@ -9253,8 +8764,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "enhanced-primate"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46576324",
@@ -9273,8 +8783,7 @@
       "logo": null,
       "publisher": "maku.fun",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46576259",
@@ -9293,8 +8802,7 @@
       "logo": null,
       "publisher": "Productivity System for Founders",
       "author": "SayNo Team"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46576125",
@@ -9313,8 +8821,7 @@
       "logo": null,
       "publisher": "Puzzles By Nathan",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46576120",
@@ -9333,8 +8840,7 @@
       "logo": null,
       "publisher": "YouTube",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46576118",
@@ -9352,8 +8858,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46576074",
@@ -9372,8 +8877,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46576031",
@@ -9392,8 +8896,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46575998",
@@ -9411,8 +8914,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "rush86999"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46575835",
@@ -9430,8 +8932,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "tyfeng1997"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46575795",
@@ -9441,8 +8942,7 @@
     "author": "JaimeAlonsoHN",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-11T13:54:37 1768139677",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-11T13:54:37 1768139677"
   },
   {
     "id": "46575619",
@@ -9452,8 +8952,7 @@
     "author": "daikikadowaki",
     "score": 10,
     "comments": 49,
-    "timestamp": "2026-01-11T13:32:59 1768138379",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-11T13:32:59 1768138379"
   },
   {
     "id": "46575615",
@@ -9472,8 +8971,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "qoery-com"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46575524",
@@ -9491,8 +8989,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "andportnoy"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46575474",
@@ -9511,8 +9008,7 @@
       "logo": null,
       "publisher": "character test",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46575430",
@@ -9530,8 +9026,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "merchantmoh-debug"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46575423",
@@ -9549,8 +9044,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46575349",
@@ -9560,8 +9054,7 @@
     "author": "tasssmaal",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-11T12:57:45 1768136265",
-    "category": "Data Management & Visualization"
+    "timestamp": "2026-01-11T12:57:45 1768136265"
   },
   {
     "id": "46575266",
@@ -9580,8 +9073,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46575190",
@@ -9599,8 +9091,7 @@
       "logo": null,
       "publisher": "pyscn-bot",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46575084",
@@ -9619,8 +9110,7 @@
       "logo": null,
       "publisher": "Create free account",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46575061",
@@ -9639,8 +9129,7 @@
       "logo": null,
       "publisher": "Stop Phishing Before You Click",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46574932",
@@ -9659,8 +9148,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sciences44"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46574849",
@@ -9679,8 +9167,7 @@
       "logo": null,
       "publisher": "MINDBEBOP",
       "author": "MINDBEBOP"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46574759",
@@ -9699,8 +9186,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46574652",
@@ -9719,8 +9205,7 @@
       "logo": null,
       "publisher": "CVora",
       "author": "CVora"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46574598",
@@ -9739,8 +9224,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46574450",
@@ -9759,8 +9243,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46574439",
@@ -9779,8 +9262,7 @@
       "logo": null,
       "publisher": "Qonvo",
       "author": "Digiwares"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46574416",
@@ -9799,8 +9281,7 @@
       "logo": null,
       "publisher": "Land Hunter",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46574406",
@@ -9819,8 +9300,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sgasser"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46574277",
@@ -9838,8 +9318,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "vnvo"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46574234",
@@ -9858,8 +9337,7 @@
       "logo": null,
       "publisher": "Cinema Mode for Multi-Monitor Setups",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46574220",
@@ -9878,8 +9356,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46574147",
@@ -9898,8 +9375,7 @@
       "logo": null,
       "publisher": "Gorse",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46573863",
@@ -9909,8 +9385,7 @@
     "author": "kundan_s__r",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-11T09:09:06 1768122546",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-11T09:09:06 1768122546"
   },
   {
     "id": "46573840",
@@ -9920,8 +9395,7 @@
     "author": "kundan_s__r",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-11T09:02:10 1768122130",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-11T09:02:10 1768122130"
   },
   {
     "id": "46573799",
@@ -9939,8 +9413,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "YashArote"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46573708",
@@ -9959,8 +9432,7 @@
       "logo": null,
       "publisher": "Sarthak Mishra",
       "author": "Sarthak Mishra"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46573505",
@@ -9979,8 +9451,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "tanin47"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46573328",
@@ -9998,8 +9469,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "joonho3020"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46573120",
@@ -10018,8 +9488,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "S2thend"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46572865",
@@ -10038,8 +9507,7 @@
       "logo": null,
       "publisher": "Apps on Google Play",
       "author": "cold coffee"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46572854",
@@ -10049,8 +9517,7 @@
     "author": "KenzoArai",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-11T05:08:21 1768108101",
-    "category": "Creative & Media Tools"
+    "timestamp": "2026-01-11T05:08:21 1768108101"
   },
   {
     "id": "46572837",
@@ -10068,8 +9535,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "laxmena"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46572811",
@@ -10088,8 +9554,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46572794",
@@ -10108,8 +9573,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46572776",
@@ -10128,8 +9592,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "VacantlyCrushing"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46572754",
@@ -10147,8 +9610,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "deevus"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46572727",
@@ -10167,8 +9629,7 @@
       "logo": null,
       "publisher": "Gumroad",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46572593",
@@ -10187,8 +9648,7 @@
       "logo": null,
       "publisher": "AI Book Generator",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46572553",
@@ -10207,8 +9667,7 @@
       "logo": null,
       "publisher": "AI Agents for Autonomous Web UI Testing",
       "author": "Kodefreeze"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46572453",
@@ -10226,8 +9685,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46572181",
@@ -10246,8 +9704,7 @@
       "logo": null,
       "publisher": "Prompt Lab",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46572154",
@@ -10266,8 +9723,7 @@
       "logo": null,
       "publisher": "lingocoder",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46572102",
@@ -10286,8 +9742,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mcnaveen"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46571932",
@@ -10306,8 +9761,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "juleshenry"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46571889",
@@ -10326,8 +9780,7 @@
       "logo": null,
       "publisher": "PodPDF",
       "author": "XADLabs"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46571726",
@@ -10346,8 +9799,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "magik6k"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46571638",
@@ -10366,8 +9818,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "malkosvetnik"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46571526",
@@ -10377,8 +9828,7 @@
     "author": "JoseOSAF",
     "score": 2,
     "comments": 3,
-    "timestamp": "2026-01-11T00:39:17 1768091957",
-    "category": "Education & Learning Tools"
+    "timestamp": "2026-01-11T00:39:17 1768091957"
   },
   {
     "id": "46571461",
@@ -10396,8 +9846,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "XS-Xspert-Software"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46571158",
@@ -10416,8 +9865,7 @@
       "logo": null,
       "publisher": "Multi-Platform Social Media Publishing Tool",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46571103",
@@ -10436,8 +9884,7 @@
       "logo": null,
       "publisher": "BridgeRust",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46571004",
@@ -10447,8 +9894,7 @@
     "author": "tehryanx",
     "score": 2,
     "comments": 1,
-    "timestamp": "2026-01-10T23:23:53 1768087433",
-    "category": "Education & Learning Tools"
+    "timestamp": "2026-01-10T23:23:53 1768087433"
   },
   {
     "id": "46570908",
@@ -10467,8 +9913,7 @@
       "logo": null,
       "publisher": "lolodex",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46570744",
@@ -10486,8 +9931,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46570584",
@@ -10497,8 +9941,7 @@
     "author": "rainliu",
     "score": 4,
     "comments": 3,
-    "timestamp": "2026-01-10T22:31:37 1768084297",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-10T22:31:37 1768084297"
   },
   {
     "id": "46570420",
@@ -10508,8 +9951,7 @@
     "author": "seesea",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-10T22:09:40 1768082980",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-10T22:09:40 1768082980"
   },
   {
     "id": "46570297",
@@ -10527,8 +9969,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "grahame"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46570192",
@@ -10546,8 +9987,7 @@
       "logo": null,
       "publisher": "Arbitration",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46570117",
@@ -10557,8 +9997,7 @@
     "author": "jackomelon",
     "score": 1,
     "comments": 1,
-    "timestamp": "2026-01-10T21:30:43 1768080643",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-10T21:30:43 1768080643"
   },
   {
     "id": "46569948",
@@ -10568,8 +10007,7 @@
     "author": "dustfinger",
     "score": 1,
     "comments": 1,
-    "timestamp": "2026-01-10T21:10:51 1768079451",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-10T21:10:51 1768079451"
   },
   {
     "id": "46569911",
@@ -10588,8 +10026,7 @@
       "logo": null,
       "publisher": "Apps on Google Play",
       "author": "QuentinRG"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46569882",
@@ -10607,8 +10044,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "ayushmaanbhav"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46569590",
@@ -10626,8 +10062,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "subhashdasyam"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46569470",
@@ -10646,8 +10081,7 @@
       "logo": null,
       "publisher": null,
       "author": "stillmail."
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46569424",
@@ -10657,8 +10091,7 @@
     "author": "alexcloudstar",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-10T20:08:05 1768075685",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-10T20:08:05 1768075685"
   },
   {
     "id": "46569357",
@@ -10676,8 +10109,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "xnfinite"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46569195",
@@ -10695,8 +10127,7 @@
       "logo": null,
       "publisher": "PyPI",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46569146",
@@ -10714,8 +10145,7 @@
       "logo": null,
       "publisher": "App Store",
       "author": "Yevgenii Kryzhanivskyi"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46569119",
@@ -10733,8 +10163,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "amirkarimi"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46569037",
@@ -10752,8 +10181,7 @@
       "logo": null,
       "publisher": "Monitor Supply",
       "author": "Monitor Supply"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46568668",
@@ -10771,8 +10199,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "varunsalian"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46568606",
@@ -10791,8 +10218,7 @@
       "logo": null,
       "publisher": null,
       "author": "Tram Shunting"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46568518",
@@ -10810,8 +10236,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "2ykwang"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46568246",
@@ -10829,8 +10254,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mwolting"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46567805",
@@ -10849,8 +10273,7 @@
       "logo": null,
       "publisher": "twofa.dev",
       "author": "maurohouseless"
-    },
-    "category": "Security & Privacy"
+    }
   },
   {
     "id": "46567786",
@@ -10869,8 +10292,7 @@
       "logo": null,
       "publisher": "Paper Animator",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46567615",
@@ -10880,8 +10302,7 @@
     "author": "aryan_192002",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-10T17:15:27 1768065327",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-10T17:15:27 1768065327"
   },
   {
     "id": "46567473",
@@ -10899,8 +10320,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "s4m-mo"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46567297",
@@ -10919,8 +10339,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46567289",
@@ -10930,8 +10349,7 @@
     "author": "marv1nnnnn",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-10T16:48:38 1768063718",
-    "category": "Data Management & Visualization"
+    "timestamp": "2026-01-10T16:48:38 1768063718"
   },
   {
     "id": "46567203",
@@ -10941,8 +10359,7 @@
     "author": "alexcloudstar",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-10T16:42:22 1768063342",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-10T16:42:22 1768063342"
   },
   {
     "id": "46567163",
@@ -10961,8 +10378,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "corpobit"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46567119",
@@ -10981,8 +10397,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Transcendo"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46566991",
@@ -10992,8 +10407,7 @@
     "author": "umbertopenna",
     "score": 1,
     "comments": 0,
-    "timestamp": "2026-01-10T16:20:49 1768062049",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-10T16:20:49 1768062049"
   },
   {
     "id": "46566970",
@@ -11012,8 +10426,7 @@
       "logo": null,
       "publisher": "Boost Domain Rating",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46566892",
@@ -11031,8 +10444,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "JackD720"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46566807",
@@ -11051,8 +10463,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46566806",
@@ -11071,8 +10482,7 @@
       "logo": null,
       "publisher": "Lo-Fi Video Social Network & Retro Camera App",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46566758",
@@ -11090,8 +10500,7 @@
       "logo": null,
       "publisher": "HackLikeMe",
       "author": "HackLikeMe Team"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46566478",
@@ -11110,8 +10519,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46566452",
@@ -11130,8 +10538,7 @@
       "logo": null,
       "publisher": "GiftSong",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46566390",
@@ -11141,8 +10548,7 @@
     "author": "ujinf74",
     "score": 5,
     "comments": 2,
-    "timestamp": "2026-01-10T15:19:37 1768058377",
-    "category": "Education & Learning Tools"
+    "timestamp": "2026-01-10T15:19:37 1768058377"
   },
   {
     "id": "46566315",
@@ -11161,8 +10567,7 @@
       "logo": null,
       "publisher": "Fudge",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46566301",
@@ -11181,8 +10586,7 @@
       "logo": null,
       "publisher": "Siteshamer",
       "author": "Siteshamer"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46566297",
@@ -11201,8 +10605,7 @@
       "logo": null,
       "publisher": "AI Security Audits",
       "author": null
-    },
-    "category": "Security & Privacy"
+    }
   },
   {
     "id": "46566289",
@@ -11221,8 +10624,7 @@
       "logo": null,
       "publisher": "Pinin",
       "author": "Pinin"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46566251",
@@ -11241,8 +10643,7 @@
       "logo": null,
       "publisher": "Deliberate API",
       "author": "dev-jeb"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46566201",
@@ -11261,8 +10662,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46566166",
@@ -11281,8 +10681,7 @@
       "logo": null,
       "publisher": "2025 H1B Salary Database & Visa Insights",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46566160",
@@ -11300,8 +10699,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sigmastratum"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46566100",
@@ -11319,8 +10717,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "FootprintAI"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46566056",
@@ -11339,8 +10736,7 @@
       "logo": null,
       "publisher": "BashAPI",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46566015",
@@ -11358,8 +10754,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "akz4ol"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46565978",
@@ -11378,8 +10773,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jacobgadek"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46565932",
@@ -11389,8 +10783,7 @@
     "author": "akz4ol",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-10T14:20:14 1768054814",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-10T14:20:14 1768054814"
   },
   {
     "id": "46565931",
@@ -11408,8 +10801,7 @@
       "logo": null,
       "publisher": "dbtree",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46565903",
@@ -11428,8 +10820,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46565762",
@@ -11448,8 +10839,7 @@
       "logo": null,
       "publisher": "Webhook Monitoring",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46565314",
@@ -11468,8 +10858,7 @@
       "logo": null,
       "publisher": "Bulk Delete Your Threads Posts",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46565162",
@@ -11488,8 +10877,7 @@
       "logo": null,
       "publisher": null,
       "author": "Lovable"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46565146",
@@ -11507,8 +10895,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "AncientiCe"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46564943",
@@ -11527,8 +10914,7 @@
       "logo": null,
       "publisher": "Free Online Calculator",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46564768",
@@ -11547,8 +10933,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "ParzivalHack"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46564735",
@@ -11566,8 +10951,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sudheendrachari"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46564662",
@@ -11586,8 +10970,7 @@
       "logo": null,
       "publisher": "CloakBin",
       "author": "CloakBin"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46564571",
@@ -11606,8 +10989,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46564295",
@@ -11625,8 +11007,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "RapierCraft"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46564244",
@@ -11645,8 +11026,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46564096",
@@ -11665,8 +11045,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46563857",
@@ -11684,8 +11063,7 @@
       "logo": null,
       "publisher": "Scriberoo",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46563836",
@@ -11704,8 +11082,7 @@
       "logo": null,
       "publisher": "Promper Saver",
       "author": "SR.Mohitkr AI Entrepreneur & Developer"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46563727",
@@ -11723,8 +11100,7 @@
       "logo": null,
       "publisher": "Memorize Pi Digits",
       "author": "PiGym"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46563672",
@@ -11743,8 +11119,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "vibe-with-me-tools"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46563631",
@@ -11763,8 +11138,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "elleryfamilia"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46563585",
@@ -11783,8 +11157,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46563535",
@@ -11803,8 +11176,7 @@
       "logo": null,
       "publisher": "E EpochCore",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46563299",
@@ -11814,8 +11186,7 @@
     "author": "MopAmine",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-10T06:23:05 1768026185",
-    "category": "Creative & Media Tools"
+    "timestamp": "2026-01-10T06:23:05 1768026185"
   },
   {
     "id": "46563290",
@@ -11825,8 +11196,7 @@
     "author": "dawitworku",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-10T06:21:24 1768026084",
-    "category": "Data Management & Visualization"
+    "timestamp": "2026-01-10T06:21:24 1768026084"
   },
   {
     "id": "46563053",
@@ -11845,8 +11215,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46562987",
@@ -11865,8 +11234,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "BrowserBox"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46562821",
@@ -11885,8 +11253,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46562769",
@@ -11905,8 +11272,7 @@
       "logo": null,
       "publisher": "VoiceBrainDump",
       "author": "VoiceBrainDump"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46562742",
@@ -11925,8 +11291,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46562498",
@@ -11945,8 +11310,7 @@
       "logo": null,
       "publisher": "CodeSteps.dev",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46562425",
@@ -11965,8 +11329,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46562160",
@@ -11985,8 +11348,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "tomkit"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46562136",
@@ -12004,8 +11366,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "SebastFock"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46562129",
@@ -12024,8 +11385,7 @@
       "logo": null,
       "publisher": "Ollie",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46562108",
@@ -12044,8 +11404,7 @@
       "logo": null,
       "publisher": "0list",
       "author": "d4mr"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46561966",
@@ -12063,8 +11422,7 @@
       "logo": null,
       "publisher": "Best Way to Learn Investing",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46561855",
@@ -12083,8 +11441,7 @@
       "logo": "https://visionaryvideo.app/logo.webp",
       "publisher": "Visionary AI",
       "author": "Aykut Yılmaz"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46561831",
@@ -12103,8 +11460,7 @@
       "logo": null,
       "publisher": "Viidx AI",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46561739",
@@ -12123,8 +11479,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Transcendo"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46561495",
@@ -12143,8 +11498,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46561399",
@@ -12163,8 +11517,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46561131",
@@ -12183,8 +11536,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "johndimm"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46560950",
@@ -12203,8 +11555,7 @@
       "logo": "https://promt.oshn-ai.com/logo.png",
       "publisher": "Oshn Prompt",
       "author": "Ilia"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46560749",
@@ -12223,8 +11574,7 @@
       "logo": null,
       "publisher": "Neuro Plus G Brain",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46560713",
@@ -12243,8 +11593,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "amcchord"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46560194",
@@ -12254,8 +11603,7 @@
     "author": "kalyfacloud",
     "score": 7,
     "comments": 1,
-    "timestamp": "2026-01-09T22:17:25 1767997045",
-    "category": "Health & Wellness"
+    "timestamp": "2026-01-09T22:17:25 1767997045"
   },
   {
     "id": "46560059",
@@ -12273,8 +11621,7 @@
       "logo": null,
       "publisher": "ThreatSurface",
       "author": "ThreatSurface"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46559912",
@@ -12293,8 +11640,7 @@
       "logo": null,
       "publisher": "Edge-First Serverless Platform",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46559639",
@@ -12313,8 +11659,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "chachamwise"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46559633",
@@ -12324,8 +11669,7 @@
     "author": "baristaGeek",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-09T21:29:44 1767994184",
-    "category": "Education & Learning Tools"
+    "timestamp": "2026-01-09T21:29:44 1767994184"
   },
   {
     "id": "46559063",
@@ -12344,8 +11688,7 @@
       "logo": null,
       "publisher": "Tailkits",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46558814",
@@ -12364,8 +11707,7 @@
       "logo": null,
       "publisher": "DemoSlice",
       "author": "DemoSlice"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46558732",
@@ -12384,8 +11726,7 @@
       "logo": null,
       "publisher": "Y Combinator",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46558658",
@@ -12403,8 +11744,7 @@
       "logo": null,
       "publisher": "Bastian Gruber",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46558640",
@@ -12422,8 +11762,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Shashank0701-byte"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46558611",
@@ -12441,8 +11780,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mlshv"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46558481",
@@ -12452,8 +11790,7 @@
     "author": "RoastFeast",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-09T19:58:30 1767988710",
-    "category": "Gaming & Entertainment"
+    "timestamp": "2026-01-09T19:58:30 1767988710"
   },
   {
     "id": "46558288",
@@ -12471,8 +11808,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "somegenericdev"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46557883",
@@ -12491,8 +11827,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "ENKI-420"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46557786",
@@ -12511,8 +11846,7 @@
       "logo": null,
       "publisher": "Snapalabra!",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46557748",
@@ -12531,8 +11865,7 @@
       "logo": null,
       "publisher": "Billy Zhao",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46557698",
@@ -12551,8 +11884,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "nickna"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46557657",
@@ -12570,8 +11902,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "akardapolov"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46557504",
@@ -12590,8 +11921,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "laphilosophia"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46557245",
@@ -12610,8 +11940,7 @@
       "logo": null,
       "publisher": "App Store",
       "author": "Folding Sky Co"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46557167",
@@ -12630,8 +11959,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46557150",
@@ -12650,8 +11978,7 @@
       "logo": null,
       "publisher": "Flickle",
       "author": "Flickle Team"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46557056",
@@ -12669,8 +11996,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "h4kbas"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46557045",
@@ -12689,8 +12015,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46556945",
@@ -12709,8 +12034,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "tpritc"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46556586",
@@ -12728,8 +12052,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "michaellee8"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46556577",
@@ -12748,8 +12071,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "andycufari"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46556353",
@@ -12768,8 +12090,7 @@
       "logo": null,
       "publisher": "Get Your Website Roasted by AI",
       "author": "RoastMyWeb"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46556320",
@@ -12787,8 +12108,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jshchnz"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46556008",
@@ -12807,8 +12127,7 @@
       "logo": null,
       "publisher": "Burner Note",
       "author": "Burner Note"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46555782",
@@ -12827,8 +12146,7 @@
       "logo": null,
       "publisher": "helmtk",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46555779",
@@ -12846,8 +12164,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "thekeunpie-hash"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46555668",
@@ -12866,8 +12183,7 @@
       "logo": null,
       "publisher": "itch.io",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46555442",
@@ -12886,8 +12202,7 @@
       "logo": null,
       "publisher": "OurNetHelps",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46555423",
@@ -12906,8 +12221,7 @@
       "logo": null,
       "publisher": "Your Product Codes Itself",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46555311",
@@ -12917,8 +12231,7 @@
     "author": "boh",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-09T16:06:39 1767974799",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-09T16:06:39 1767974799"
   },
   {
     "id": "46555272",
@@ -12937,8 +12250,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46555139",
@@ -12957,8 +12269,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "bursot"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46555098",
@@ -12977,8 +12288,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "tomaytotomato"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46555078",
@@ -12997,8 +12307,7 @@
       "logo": null,
       "publisher": "pdfn",
       "author": "Gokul Siva"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46554960",
@@ -13017,8 +12326,7 @@
       "logo": null,
       "publisher": "WhatEazy",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46554904",
@@ -13037,8 +12345,7 @@
       "logo": null,
       "publisher": "Prediction Market Edge Detection",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46554799",
@@ -13057,8 +12364,7 @@
       "logo": null,
       "publisher": "NYCNoiseCameraTicket.com",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46554750",
@@ -13076,8 +12382,7 @@
       "logo": null,
       "publisher": "AI Agent Directory",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46554675",
@@ -13096,8 +12401,7 @@
       "logo": null,
       "publisher": "WorkZoneSpeedingTicket.com",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46554642",
@@ -13115,8 +12419,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "BayramAnnakov"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46554176",
@@ -13126,8 +12429,7 @@
     "author": "lukaslukas",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-09T14:26:20 1767968780",
-    "category": "Creative & Media Tools"
+    "timestamp": "2026-01-09T14:26:20 1767968780"
   },
   {
     "id": "46554014",
@@ -13145,8 +12447,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "kmkrofficial"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46554013",
@@ -13165,8 +12466,7 @@
       "logo": null,
       "publisher": "Record & Measure dB Levels",
       "author": "NoiseEvidence"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46553993",
@@ -13185,8 +12485,7 @@
       "logo": "https://mapyourvoyage.com/myv-logo.png",
       "publisher": "Map Your Voyage",
       "author": "Map Your Voyage"
-    },
-    "category": "Travel & Planning"
+    }
   },
   {
     "id": "46553973",
@@ -13204,8 +12503,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "skorotkiewicz"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46553923",
@@ -13224,8 +12522,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46553839",
@@ -13244,8 +12541,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46553824",
@@ -13263,8 +12559,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "smacke"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46553667",
@@ -13283,8 +12578,7 @@
       "logo": null,
       "publisher": "SquareFaceArt",
       "author": "Square Face Art"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46553532",
@@ -13303,8 +12597,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46553469",
@@ -13323,8 +12616,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46553428",
@@ -13342,8 +12634,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "dkoepsell"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46553369",
@@ -13362,8 +12653,7 @@
       "logo": null,
       "publisher": "Interactive Demo",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46553238",
@@ -13373,8 +12663,7 @@
     "author": "akhnid",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-09T12:38:30 1767962310",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-09T12:38:30 1767962310"
   },
   {
     "id": "46553223",
@@ -13393,8 +12682,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "akopich"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46553213",
@@ -13404,8 +12692,7 @@
     "author": "rankiwiki",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-09T12:34:36 1767962076",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-09T12:34:36 1767962076"
   },
   {
     "id": "46553195",
@@ -13424,8 +12711,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "VeridisQuo-orga"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46552833",
@@ -13444,8 +12730,7 @@
       "logo": null,
       "publisher": "Ulomira",
       "author": "Ulomira"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46552767",
@@ -13464,8 +12749,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "srijxnnn"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46552674",
@@ -13484,8 +12768,7 @@
       "logo": null,
       "publisher": "iKrypt",
       "author": "iKrypt"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46552556",
@@ -13504,8 +12787,7 @@
       "logo": null,
       "publisher": "Prateek Agarwal",
       "author": "Prateek Agarwal"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46552523",
@@ -13524,8 +12806,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "covibes"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46552438",
@@ -13544,8 +12825,7 @@
       "logo": null,
       "publisher": "Online AI Image Quality Enhancer",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46552390",
@@ -13564,8 +12844,7 @@
       "logo": null,
       "publisher": "LukCode",
       "author": "LukCode"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46552386",
@@ -13584,8 +12863,7 @@
       "logo": null,
       "publisher": "Zaph AI",
       "author": "Zaph AI"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46552379",
@@ -13604,8 +12882,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46552351",
@@ -13624,8 +12901,7 @@
       "logo": null,
       "publisher": "App Store",
       "author": "Sumlane UG (haftungsbeschraenkt)"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46552125",
@@ -13644,8 +12920,7 @@
       "logo": null,
       "publisher": "Authentication",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46552118",
@@ -13664,8 +12939,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "CorePack-AI"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46551769",
@@ -13684,8 +12958,7 @@
       "logo": null,
       "publisher": "Titan Planet Docs",
       "author": "Ezet Galaxy"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46551474",
@@ -13703,8 +12976,7 @@
       "logo": null,
       "publisher": "The Million Lines",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46551277",
@@ -13723,8 +12995,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Pablo-Merino"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46551266",
@@ -13743,8 +13014,7 @@
       "logo": null,
       "publisher": "Snapalabra!",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46551230",
@@ -13763,8 +13033,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "UgOrange"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46551078",
@@ -13783,8 +13052,7 @@
       "logo": null,
       "publisher": "LTX Video Generator",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46550894",
@@ -13803,8 +13071,7 @@
       "logo": null,
       "publisher": "NYCNoiseCameraTicket.com",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46550842",
@@ -13823,8 +13090,7 @@
       "logo": null,
       "publisher": "WorkZoneSpeedingTicket.com",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46550786",
@@ -13843,8 +13109,7 @@
       "logo": null,
       "publisher": "Headless Content Management System",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46550778",
@@ -13863,8 +13128,7 @@
       "logo": null,
       "publisher": "fnPrompt",
       "author": "fnPrompt AI"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46550747",
@@ -13883,8 +13147,7 @@
       "logo": null,
       "publisher": "Code Input",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46550726",
@@ -13902,8 +13165,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "goshitsarch-eng"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46550701",
@@ -13922,8 +13184,7 @@
       "logo": null,
       "publisher": "Peepfont",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46550669",
@@ -13941,8 +13202,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "rinvii"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46550627",
@@ -13961,8 +13221,7 @@
       "logo": null,
       "publisher": "Instantly Create Professional Screen Recordings in Perfect English",
       "author": null
-    },
-    "category": "Other"
+    }
   },
   {
     "id": "46550606",
@@ -13981,8 +13240,7 @@
       "logo": null,
       "publisher": "Apps on Google Play",
       "author": "BunnyTechLabs"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46550446",
@@ -14001,8 +13259,7 @@
       "logo": null,
       "publisher": "Dragon Quest VII Reimagined Guide",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46550382",
@@ -14012,8 +13269,7 @@
     "author": "hfmsio",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-09T05:29:03 1767936543",
-    "category": "Data Management & Visualization"
+    "timestamp": "2026-01-09T05:29:03 1767936543"
   },
   {
     "id": "46550350",
@@ -14031,8 +13287,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "RaoHai"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46550178",
@@ -14042,8 +13297,7 @@
     "author": "anhldbk",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-09T04:50:26 1767934226",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-09T04:50:26 1767934226"
   },
   {
     "id": "46550130",
@@ -14062,8 +13316,7 @@
       "logo": null,
       "publisher": "Get Your Website Roasted by AI",
       "author": "RoastMyWeb"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46549977",
@@ -14082,8 +13335,7 @@
       "logo": null,
       "publisher": "askbad",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46549929",
@@ -14101,8 +13353,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "team-attention"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46549900",
@@ -14121,8 +13372,7 @@
       "logo": null,
       "publisher": "ApiTap",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46549845",
@@ -14141,8 +13391,7 @@
       "logo": null,
       "publisher": "AI Wake-Up Calls That Don’t Let You Snooze",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46549796",
@@ -14161,8 +13410,7 @@
       "logo": null,
       "publisher": "AI Assistant",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46549756",
@@ -14181,8 +13429,7 @@
       "logo": null,
       "publisher": "X (formerly Twitter)",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46549670",
@@ -14201,8 +13448,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46549642",
@@ -14221,8 +13467,7 @@
       "logo": null,
       "publisher": "Apps on Google Play",
       "author": "Googol Apps"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46549641",
@@ -14241,8 +13486,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46549631",
@@ -14252,8 +13496,7 @@
     "author": "ixugo",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-09T03:05:04 1767927904",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-09T03:05:04 1767927904"
   },
   {
     "id": "46548958",
@@ -14272,8 +13515,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "ZeframLou"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46548949",
@@ -14291,8 +13533,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "ThirdLetterC"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46548068",
@@ -14310,8 +13551,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "gowthamtadala"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46547971",
@@ -14330,8 +13570,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "asklokesh"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46547964",
@@ -14350,8 +13589,7 @@
       "logo": null,
       "publisher": "TrustTune Network",
       "author": "TrustTune Network"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46547931",
@@ -14370,8 +13608,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46547847",
@@ -14390,8 +13627,7 @@
       "logo": null,
       "publisher": "App Store",
       "author": "Luis Rafael Villamil Santa Cruz"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46547659",
@@ -14410,8 +13646,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "saviomartin"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46547216",
@@ -14421,8 +13656,7 @@
     "author": "sanity",
     "score": 6,
     "comments": 7,
-    "timestamp": "2026-01-08T22:11:30 1767910290",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-08T22:11:30 1767910290"
   },
   {
     "id": "46547073",
@@ -14441,8 +13675,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46546969",
@@ -14461,8 +13694,7 @@
       "logo": null,
       "publisher": "Craffted",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46546803",
@@ -14472,8 +13704,7 @@
     "author": "Traumen",
     "score": 2,
     "comments": 1,
-    "timestamp": "2026-01-08T21:33:01 1767907981",
-    "category": "Financial & Budgeting Apps"
+    "timestamp": "2026-01-08T21:33:01 1767907981"
   },
   {
     "id": "46546629",
@@ -14492,8 +13723,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "deepanwadhwa"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46546624",
@@ -14512,8 +13742,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "eqtylab"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46546534",
@@ -14531,8 +13760,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "BrunoQuaresma"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46546501",
@@ -14551,8 +13779,7 @@
       "logo": null,
       "publisher": "Durable",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46546453",
@@ -14570,8 +13797,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "harentius"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46546259",
@@ -14581,8 +13807,7 @@
     "author": "taptap4",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-08T20:50:02 1767905402",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-08T20:50:02 1767905402"
   },
   {
     "id": "46546247",
@@ -14601,8 +13826,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "riktaHQ"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46545981",
@@ -14621,8 +13845,7 @@
       "logo": null,
       "publisher": "Gumroad",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46545972",
@@ -14641,8 +13864,7 @@
       "logo": null,
       "publisher": "AeroGrid",
       "author": "AeroGrid - A Today Companies Organization"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46545939",
@@ -14652,8 +13874,7 @@
     "author": "mikeaskew4",
     "score": 3,
     "comments": 0,
-    "timestamp": "2026-01-08T20:22:25 1767903745",
-    "category": "Gaming & Entertainment"
+    "timestamp": "2026-01-08T20:22:25 1767903745"
   },
   {
     "id": "46545772",
@@ -14663,8 +13884,7 @@
     "author": "l_oberbeck",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-08T20:07:31 1767902851",
-    "category": "Gaming & Entertainment"
+    "timestamp": "2026-01-08T20:07:31 1767902851"
   },
   {
     "id": "46545744",
@@ -14682,8 +13902,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "subconscious-systems"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46545701",
@@ -14702,8 +13921,7 @@
       "logo": null,
       "publisher": "AI Party - M.A.I.A.",
       "author": "AI Party"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46545681",
@@ -14713,8 +13931,7 @@
     "author": "akhnid",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-08T19:59:39 1767902379",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-08T19:59:39 1767902379"
   },
   {
     "id": "46545578",
@@ -14733,8 +13950,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "olatunjitobiloba"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46545576",
@@ -14753,8 +13969,7 @@
       "logo": null,
       "publisher": "SupaExplorer",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46545409",
@@ -14773,8 +13988,7 @@
       "logo": null,
       "publisher": "Turn your PRs into content worth sharing",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46545408",
@@ -14784,8 +13998,7 @@
     "author": "marius-ciclistu",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-08T19:35:39 1767900939",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-08T19:35:39 1767900939"
   },
   {
     "id": "46545214",
@@ -14804,8 +14017,7 @@
       "logo": null,
       "publisher": null,
       "author": "UnderAutomation"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46545093",
@@ -14824,8 +14036,7 @@
       "logo": null,
       "publisher": "Property Profit Scanner",
       "author": "Property Profit Scanner"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46545092",
@@ -14835,8 +14046,7 @@
     "author": "Warlax",
     "score": 2,
     "comments": 1,
-    "timestamp": "2026-01-08T19:10:32 1767899432",
-    "category": "Data Management & Visualization"
+    "timestamp": "2026-01-08T19:10:32 1767899432"
   },
   {
     "id": "46544964",
@@ -14855,8 +14065,7 @@
       "logo": null,
       "publisher": "TractionWay",
       "author": "TractionWay"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46544806",
@@ -14875,8 +14084,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46544767",
@@ -14886,8 +14094,7 @@
     "author": "EldorZ",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-08T18:42:17 1767897737",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-08T18:42:17 1767897737"
   },
   {
     "id": "46544692",
@@ -14906,8 +14113,7 @@
       "logo": null,
       "publisher": "Privacy Policy",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46544681",
@@ -14926,8 +14132,7 @@
       "logo": null,
       "publisher": "PyPI",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46544676",
@@ -14946,8 +14151,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "agavra"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46544432",
@@ -14966,8 +14170,7 @@
       "logo": null,
       "publisher": "by Aftertone & Signal",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46544423",
@@ -14986,8 +14189,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "jackchuka"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46544322",
@@ -15006,8 +14208,7 @@
       "logo": null,
       "publisher": "SchoolZoneSpeedingTicket.com",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46544231",
@@ -15026,8 +14227,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "opale-ai"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46544068",
@@ -15046,8 +14246,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46544004",
@@ -15066,8 +14265,7 @@
       "logo": null,
       "publisher": "Next Generation NAT Hosting",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46543942",
@@ -15086,8 +14284,7 @@
       "logo": null,
       "publisher": "Detection Coverage Validator",
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46543875",
@@ -15106,8 +14303,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46543759",
@@ -15117,8 +14313,7 @@
     "author": "vincentdu2025",
     "score": 2,
     "comments": 4,
-    "timestamp": "2026-01-08T17:28:56 1767893336",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-08T17:28:56 1767893336"
   },
   {
     "id": "46543639",
@@ -15137,8 +14332,7 @@
       "logo": null,
       "publisher": "Project: Parallel",
       "author": "Project: Parallel Team"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46543630",
@@ -15157,8 +14351,7 @@
       "logo": null,
       "publisher": "revibe.codes",
       "author": "Revibe"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46543596",
@@ -15177,8 +14370,7 @@
       "logo": null,
       "publisher": "Chrome Web Store",
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46543594",
@@ -15197,8 +14389,7 @@
       "logo": null,
       "publisher": "The Last Word",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46543588",
@@ -15216,8 +14407,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "federicolepera"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46543464",
@@ -15236,8 +14426,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46543423",
@@ -15247,8 +14436,7 @@
     "author": "lifesaverluke",
     "score": 2,
     "comments": 2,
-    "timestamp": "2026-01-08T17:02:28 1767891748",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-08T17:02:28 1767891748"
   },
   {
     "id": "46543391",
@@ -15267,8 +14455,7 @@
       "logo": null,
       "publisher": "YouTube",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46543187",
@@ -15286,8 +14473,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "skylessdev"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46543162",
@@ -15306,8 +14492,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46543139",
@@ -15326,8 +14511,7 @@
       "logo": null,
       "publisher": "App Store",
       "author": "Alora Studios Inc."
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46543093",
@@ -15345,8 +14529,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mupt-ai"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46543065",
@@ -15365,8 +14548,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mikekelly"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46542920",
@@ -15384,8 +14566,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "plotnik-lang"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46542723",
@@ -15403,8 +14584,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sstraus"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46542716",
@@ -15422,8 +14602,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "kks0488"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46542659",
@@ -15442,8 +14621,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46542634",
@@ -15461,8 +14639,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "turingmindai"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46542524",
@@ -15481,8 +14658,7 @@
       "logo": null,
       "publisher": "Reclaim Your Photo Library",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46542480",
@@ -15492,8 +14668,7 @@
     "author": "wozzio",
     "score": 2,
     "comments": 1,
-    "timestamp": "2026-01-08T15:56:56 1767887816",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-08T15:56:56 1767887816"
   },
   {
     "id": "46542454",
@@ -15512,8 +14687,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sakebook"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46542427",
@@ -15532,8 +14706,7 @@
       "logo": null,
       "publisher": "AI Vibe Coding Hackathon",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46542425",
@@ -15552,8 +14725,7 @@
       "logo": null,
       "publisher": "Elements Now",
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46542385",
@@ -15571,8 +14743,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "isaac-sim"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46542334",
@@ -15591,8 +14762,7 @@
       "logo": null,
       "publisher": "Revrse AI",
       "author": "Revrse AI"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46542165",
@@ -15611,8 +14781,7 @@
       "logo": null,
       "publisher": "AI-Powered Sales Intelligence Platform",
       "author": "GetIntel"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46542140",
@@ -15631,8 +14800,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "itsmontoya"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46542139",
@@ -15642,8 +14810,7 @@
     "author": "daikikadowaki",
     "score": 2,
     "comments": 1,
-    "timestamp": "2026-01-08T15:28:59 1767886139",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-08T15:28:59 1767886139"
   },
   {
     "id": "46542009",
@@ -15662,8 +14829,7 @@
       "logo": null,
       "publisher": "Buy & Sell Vibe-Coded Startups",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46541949",
@@ -15681,8 +14847,7 @@
       "logo": null,
       "publisher": "Streamline Supplier Management",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46541885",
@@ -15701,8 +14866,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46541873",
@@ -15721,8 +14885,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "sgharlow"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46541807",
@@ -15741,8 +14904,7 @@
       "logo": null,
       "publisher": "It Happened Again",
       "author": "It Happened Again Team"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46541794",
@@ -15761,8 +14923,7 @@
       "logo": null,
       "publisher": "Vect AI",
       "author": "Vect AI"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46541792",
@@ -15772,8 +14933,7 @@
     "author": "chw9e",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-08T14:59:03 1767884343",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-08T14:59:03 1767884343"
   },
   {
     "id": "46541617",
@@ -15791,8 +14951,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "wilkolbrzym-coder"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46541535",
@@ -15811,8 +14970,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46541512",
@@ -15830,8 +14988,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "michaelwhitford"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46541465",
@@ -15849,8 +15006,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "abishekvenkat"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46541399",
@@ -15869,8 +15025,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "orangekame3"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46541380",
@@ -15889,8 +15044,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "huanglizhuo"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46541313",
@@ -15909,8 +15063,7 @@
       "logo": "https://laraplugins.io/logos/mono-black-horizontal.svg",
       "publisher": "LaraPlugins.io",
       "author": "Daniel Petrica"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46541285",
@@ -15929,8 +15082,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46541271",
@@ -15949,8 +15101,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46541197",
@@ -15969,8 +15120,7 @@
       "logo": null,
       "publisher": "Everdone",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46541127",
@@ -15988,8 +15138,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mikekelly"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46541117",
@@ -16007,8 +15156,7 @@
       "logo": null,
       "publisher": "Low Level Design Mastery",
       "author": "Low Level Design Mastery"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46541103",
@@ -16026,8 +15174,7 @@
       "logo": null,
       "publisher": "AI-Powered 3D Container Loading Optimizer",
       "author": "GPT Packer"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46541028",
@@ -16046,8 +15193,7 @@
       "logo": "https://genrankengine.com/img/genrankengine-darkbg.png",
       "publisher": "Perplexity Rank Tracker",
       "author": "GenRankEngine"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46541025",
@@ -16057,8 +15203,7 @@
     "author": "joemasilotti",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-08T13:59:26 1767880766",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-08T13:59:26 1767880766"
   },
   {
     "id": "46541012",
@@ -16077,8 +15222,7 @@
       "logo": null,
       "publisher": "ranksty.com",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46540988",
@@ -16097,8 +15241,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46540963",
@@ -16116,8 +15259,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "charleswolfe"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46540811",
@@ -16136,8 +15278,7 @@
       "logo": null,
       "publisher": "AI-Powered Proposals",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46540804",
@@ -16156,8 +15297,7 @@
       "logo": null,
       "publisher": "Global Aesthetic Leaderboard",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46540684",
@@ -16176,8 +15316,7 @@
       "logo": null,
       "publisher": "copapy documentation",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46540585",
@@ -16196,8 +15335,7 @@
       "logo": null,
       "publisher": "Adventory",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46540579",
@@ -16216,8 +15354,7 @@
       "logo": null,
       "publisher": "AI Meeting Summaries, Slides, Notes, Chatbots",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46540570",
@@ -16236,8 +15373,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46540457",
@@ -16256,8 +15392,7 @@
       "logo": null,
       "publisher": "Diff Checker",
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46540447",
@@ -16276,8 +15411,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Velooroo"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46540359",
@@ -16296,8 +15430,7 @@
       "logo": null,
       "publisher": "Busel",
       "author": "Busel"
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46540130",
@@ -16315,8 +15448,7 @@
       "logo": null,
       "publisher": "Crucible",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46540037",
@@ -16335,8 +15467,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46539961",
@@ -16355,8 +15486,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "baidu-baige"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46539897",
@@ -16366,8 +15496,7 @@
     "author": "OleJ",
     "score": 2,
     "comments": 1,
-    "timestamp": "2026-01-08T11:33:25 1767872005",
-    "category": "Health & Wellness"
+    "timestamp": "2026-01-08T11:33:25 1767872005"
   },
   {
     "id": "46539894",
@@ -16386,8 +15515,7 @@
       "logo": "https://gitmore.io/logo.png",
       "publisher": "Gitmore - Git Reporting Tool",
       "author": "Gitmore Ltd"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46539884",
@@ -16406,8 +15534,7 @@
       "logo": null,
       "publisher": "HonestStake",
       "author": "HonestStake"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46539823",
@@ -16425,8 +15552,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "qubitsok"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46539786",
@@ -16445,8 +15571,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46539730",
@@ -16456,8 +15581,7 @@
     "author": "kdev28",
     "score": 2,
     "comments": 1,
-    "timestamp": "2026-01-08T11:15:37 1767870937",
-    "category": "AI Tools & Applications"
+    "timestamp": "2026-01-08T11:15:37 1767870937"
   },
   {
     "id": "46539662",
@@ -16467,8 +15591,7 @@
     "author": "akhnid",
     "score": 2,
     "comments": 1,
-    "timestamp": "2026-01-08T11:07:17 1767870437",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-08T11:07:17 1767870437"
   },
   {
     "id": "46539619",
@@ -16487,8 +15610,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46539601",
@@ -16507,8 +15629,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46539580",
@@ -16518,8 +15639,7 @@
     "author": "MopAmine",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-08T10:52:50 1767869570",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-08T10:52:50 1767869570"
   },
   {
     "id": "46539576",
@@ -16538,8 +15658,7 @@
       "logo": null,
       "publisher": "AI Prompt Tool",
       "author": "Prompt Pilot"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46539535",
@@ -16558,8 +15677,7 @@
       "logo": null,
       "publisher": "VIOware Technologies",
       "author": "VIOware Technologies"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46539495",
@@ -16578,8 +15696,7 @@
       "logo": null,
       "publisher": "App Store",
       "author": "HealthRx Ventures Private Limited"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46539462",
@@ -16598,8 +15715,7 @@
       "logo": null,
       "publisher": "Flexy",
       "author": "Flexy"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46539459",
@@ -16618,8 +15734,7 @@
       "logo": null,
       "publisher": "Kitful.ai",
       "author": null
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46539363",
@@ -16629,8 +15744,7 @@
     "author": "jatinlalit",
     "score": 2,
     "comments": 1,
-    "timestamp": "2026-01-08T10:15:51 1767867351",
-    "category": "Health & Wellness"
+    "timestamp": "2026-01-08T10:15:51 1767867351"
   },
   {
     "id": "46539358",
@@ -16649,8 +15763,7 @@
       "logo": null,
       "publisher": "App Store",
       "author": "Chris Gregori"
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46539270",
@@ -16669,8 +15782,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "NevaMind-AI"
-    },
-    "category": "AI Tools & Applications"
+    }
   },
   {
     "id": "46539266",
@@ -16689,8 +15801,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "dengo07"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46539140",
@@ -16709,8 +15820,7 @@
       "logo": null,
       "publisher": "Secureleap Logo",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46539054",
@@ -16720,8 +15830,7 @@
     "author": "akacj",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-08T09:27:18 1767864438",
-    "category": "Web Development & Automation"
+    "timestamp": "2026-01-08T09:27:18 1767864438"
   },
   {
     "id": "46538933",
@@ -16740,8 +15849,7 @@
       "logo": null,
       "publisher": "STEAM",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46538825",
@@ -16760,8 +15868,7 @@
       "logo": null,
       "publisher": "AnyLangPDF",
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46538570",
@@ -16780,8 +15887,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "Flowscape-UI"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46538534",
@@ -16799,8 +15905,7 @@
       "logo": null,
       "publisher": "Home",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46538481",
@@ -16819,8 +15924,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "covibes"
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46538467",
@@ -16839,8 +15943,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "mohamed-chs"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46538208",
@@ -16859,8 +15962,7 @@
       "logo": null,
       "publisher": "būlt",
       "author": "Nursultan"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46538152",
@@ -16879,8 +15981,7 @@
       "logo": null,
       "publisher": "Daily Scrambled News Headline Puzzle",
       "author": null
-    },
-    "category": "Gaming & Entertainment"
+    }
   },
   {
     "id": "46537722",
@@ -16899,8 +16000,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46537619",
@@ -16918,8 +16018,7 @@
       "logo": null,
       "publisher": "Contract Clarity Analyzer",
       "author": null
-    },
-    "category": "Financial & Budgeting Apps"
+    }
   },
   {
     "id": "46537590",
@@ -16937,8 +16036,7 @@
       "logo": null,
       "publisher": "TrainiVio Interactive Training — Fully Controlled",
       "author": "TrainiVio"
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46537459",
@@ -16956,8 +16054,7 @@
       "logo": null,
       "publisher": "Zenodo",
       "author": null
-    },
-    "category": "Open Source & Community Projects"
+    }
   },
   {
     "id": "46537416",
@@ -16975,8 +16072,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "alexhamidi"
-    },
-    "category": "Creative & Media Tools"
+    }
   },
   {
     "id": "46537356",
@@ -16995,8 +16091,7 @@
       "logo": null,
       "publisher": null,
       "author": null
-    },
-    "category": "Education & Learning Tools"
+    }
   },
   {
     "id": "46537317",
@@ -17015,8 +16110,7 @@
       "logo": null,
       "publisher": "XAKPC Dev Labs",
       "author": "XAKPC Dev Labs"
-    },
-    "category": "Data Management & Visualization"
+    }
   },
   {
     "id": "46537248",
@@ -17034,8 +16128,7 @@
       "logo": null,
       "publisher": "GitHub",
       "author": "prateekmaheshwari"
-    },
-    "category": "Web Development & Automation"
+    }
   },
   {
     "id": "46537202",
@@ -17054,8 +16147,7 @@
       "logo": null,
       "publisher": "The Maduro Trials",
       "author": "The Maduro Trials"
-    },
-    "category": "Health & Wellness"
+    }
   },
   {
     "id": "46537075",
@@ -17065,7 +16157,6 @@
     "author": "todaycompanies",
     "score": 2,
     "comments": 0,
-    "timestamp": "2026-01-08T04:07:23 1767845243",
-    "category": "Open Source & Community Projects"
+    "timestamp": "2026-01-08T04:07:23 1767845243"
   }
 ]

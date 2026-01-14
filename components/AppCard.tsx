@@ -28,21 +28,17 @@ export function AppCard({ app, showCategory }: AppCardProps) {
             <span className="text-zinc-900 dark:text-white">{app.score}</span>
           </div>
         </div>
-
-        {/* Bottom Overlays */}
-        {showCategory && (
-          <div className="absolute bottom-3 left-3">
-            <span className="bg-black/70 backdrop-blur-md text-white text-[10px] uppercase font-bold px-2 py-1 rounded-md tracking-wider">
-              {app.category}
-            </span>
-          </div>
-        )}
       </div>
 
       <div className="p-5 flex flex-col flex-grow">
-        {/* Title & Publisher */}
+        {/* Category & Publisher */}
         <div className="mb-3">
           <div className="flex items-center gap-2 mb-1.5 overflow-hidden">
+            {showCategory && (
+              <span className="text-[10px] font-bold uppercase tracking-widest text-orange-500 bg-orange-50 dark:bg-orange-950/30 px-2 py-0.5 rounded mr-1">
+                {app.category}
+              </span>
+            )}
             {app.metadata?.logo && (
               <img src={app.metadata.logo} alt="" className="w-4 h-4 rounded-sm flex-shrink-0" />
             )}

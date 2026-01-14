@@ -30,7 +30,7 @@ export default async function Home() {
               </Suspense>
             </div>
           </div>
-          <nav className="mt-4 flex items-center gap-4 overflow-x-auto pb-1 no-scrollbar border-t border-zinc-100 dark:border-zinc-800 pt-3">
+          <nav className="mt-4 flex items-center gap-4 overflow-x-auto pb-4 no-scrollbar border-t border-zinc-100 dark:border-zinc-800 pt-3">
             {categoryNames.map(name => (
               <a 
                 key={name}

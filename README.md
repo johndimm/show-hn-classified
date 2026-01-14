@@ -2,7 +2,7 @@
 
 A curated and automatically classified directory of apps submitted to Hacker News. This project solves the problem of "Show HN" posts quickly dropping to the bottom of the list by categorizing them into meaningful sections with rich metadata.
 
-![Show HN Classified Screenshot](./public/screenshot.png)
+![Show HN Classified Screenshot](https://raw.githubusercontent.com/johndimm/show-hn-classified/main/public/screenshot.png)
 
 ## 🚀 How it Works
 

@@ -16,6 +16,35 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
+interface HNPost {
+  id: string;
+  title: string;
+  url: string;
+  hnUrl: string;
+  author: string;
+  score: number;
+  comments: number;
+  timestamp: string;
+}
+
+interface AppMetadata {
+  title?: string;
+  description?: string;
+  image?: string;
+  url?: string;
+  logo?: string;
+  publisher?: string;
+  author?: string;
+}
+
+interface PostWithMetadata extends HNPost {
+  metadata?: AppMetadata;
+}
+
+interface ClassifiedApp extends PostWithMetadata {
+  category: string;
+}
+
 async function main() {
   if (!process.env.OPENAI_API_KEY) {
     console.error('ERROR: OPENAI_API_KEY environment variable not set.');
@@ -28,11 +57,11 @@ async function main() {
     return;
   }
 
-  const posts = JSON.parse(fs.readFileSync(METADATA_POSTS_FILE, 'utf8'));
+  const posts: PostWithMetadata[] = JSON.parse(fs.readFileSync(METADATA_POSTS_FILE, 'utf8'));
   console.log(`Classifying ${posts.length} apps using LLM...`);
 
   // Step 1: Get a larger representative sample to define categories
-  const sample = posts.slice(0, 300).map((p: any) => ({
+  const sample = posts.slice(0, 300).map((p) => ({
     title: p.title,
     description: p.metadata?.description || ''
   }));
@@ -67,7 +96,7 @@ async function main() {
 
   // Step 2: Classify all apps in batches
   const batchSize = 50;
-  const classifiedApps = [];
+  const classifiedApps: ClassifiedApp[] = [];
 
   for (let i = 0; i < posts.length; i += batchSize) {
     const batch = posts.slice(i, i + batchSize);
@@ -95,7 +124,7 @@ async function main() {
       response_format: { type: "json_object" }
     });
 
-    const classification = JSON.parse(response.choices[0].message.content || '{}');
+    const classification: Record<string, string> = JSON.parse(response.choices[0].message.content || '{}');
     
     batch.forEach(post => {
       classifiedApps.push({

@@ -5,13 +5,24 @@ const DATA_DIR = path.join(process.cwd(), 'data');
 const POSTS_RAW_FILE = path.join(DATA_DIR, 'posts_raw.json');
 const HTML_CACHE_DIR = path.join(DATA_DIR, 'html_cache');
 
+interface HNPost {
+  id: string;
+  title: string;
+  url: string;
+  hnUrl: string;
+  author: string;
+  score: number;
+  comments: number;
+  timestamp: string;
+}
+
 function main() {
   if (!fs.existsSync(POSTS_RAW_FILE)) {
     console.error('posts_raw.json not found.');
     return;
   }
 
-  const posts = JSON.parse(fs.readFileSync(POSTS_RAW_FILE, 'utf8'));
+  const posts: HNPost[] = JSON.parse(fs.readFileSync(POSTS_RAW_FILE, 'utf8'));
   
   // Count bad links
   let badLinks = 0;
@@ -29,7 +40,7 @@ function main() {
 
   // Daily counts for this month (Jan 2026)
   const dailyCounts: Record<string, number> = {};
-  posts.forEach((p: any) => {
+  posts.forEach((p) => {
     const date = p.timestamp.split('T')[0];
     if (date.startsWith('2026-01')) {
       dailyCounts[date] = (dailyCounts[date] || 0) + 1;
@@ -38,7 +49,7 @@ function main() {
 
   // Monthly counts for past year
   const monthlyCounts: Record<string, number> = {};
-  posts.forEach((p: any) => {
+  posts.forEach((p) => {
     const month = p.timestamp.split('-').slice(0, 2).join('-');
     monthlyCounts[month] = (monthlyCounts[month] || 0) + 1;
   });

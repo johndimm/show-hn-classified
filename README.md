@@ -1,8 +1,19 @@
 # Show HN Classified
 
-A curated and automatically classified directory of apps submitted to Hacker News. This project solves the problem of "Show HN" posts quickly dropping to the bottom of the list by categorizing them into meaningful sections with rich metadata.
-
 ![Show HN Classified Screenshot](https://raw.githubusercontent.com/johndimm/show-hn-classified/main/public/screenshot.png)
+
+Hacker News rejects categorization of news articles because that makes silos.  I have no problem with that.  
+
+But apps are a different story.  There is an undifferentiated sea of them now in Show HN and it makes them hard to browse.  Personally I get bored clicking through a huge list, one random app after another, trying to pick out the interesting ones based on title alone.  I'm sure I am missing lots of good stuff.  
+
+Categorization of apps would be a good thing.  Developers naturally have different interests and silos of technical interest are not like political divisions.  Lumping all apps together is not the way to encourage us to look outside our current interests.
+
+Hence this app.  It is a proof of concept, and I'm not sure if I will try to update it with any frequency.  Let me know in discussion if there is interest.  
+
+The app was written in one evening using Cursor and Gemini 3 Flash.  The next day I asked it to use an LLM for the categorization rather than its first iteration using static keyword lists.  
+
+
+
 
 ## 🚀 How it Works
 
